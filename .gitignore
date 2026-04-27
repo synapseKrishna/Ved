@@ -1,0 +1,10 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+agent/_pycache_
+_pycache__  

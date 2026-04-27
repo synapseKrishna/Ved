@@ -1,0 +1,1249 @@
+2026-04-27 17:45:42,926 [INFO] ─── Fetching news for: Chime Biologics ───
+2026-04-27 17:45:42,927 [INFO] 🔍 Fetching RSS for 'Chime Biologics': https://news.google.com/rss/search?q=Chime+Biologics+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:45:42,931 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:45:43,543 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Chime+Biologics+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:45:43,545 [DEBUG] ✅ HTTP 200 — RSS size: 1,142 chars
+2026-04-27 17:45:43,551 [INFO] 📰 Found 0 RSS items for 'Chime Biologics'
+2026-04-27 17:45:43,552 [WARNING] ⚠️  0 articles in RSS for 'Chime Biologics'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:45:45,556 [INFO] ─── Fetching news for: Sandoz ───
+2026-04-27 17:45:45,558 [INFO] 🔍 Fetching RSS for 'Sandoz': https://news.google.com/rss/search?q=Sandoz+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:45:45,561 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:45:46,510 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Sandoz+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:45:46,511 [DEBUG] ✅ HTTP 200 — RSS size: 14,748 chars
+2026-04-27 17:45:46,511 [INFO] 📰 Found 8 RSS items for 'Sandoz'
+2026-04-27 17:45:46,511 [DEBUG]   [1] ✅ Title  : Sandoz creates biosimilar unit to benefit from major patent cliff
+2026-04-27 17:45:46,512 [DEBUG]   [1] ✅ Source : MSN
+2026-04-27 17:45:46,512 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMi7gJBVV95cUxQaTBKcDFoOVg4T1N0OUxYRFdsM1J
+2026-04-27 17:45:46,512 [DEBUG]   [1] ✅ Date   : 26-04-2026 22:00 UTC
+2026-04-27 17:45:46,512 [DEBUG]   [1] ⏩ Skipped (irrelevant): Sandoz creates biosimilar unit to benefit from major patent 
+2026-04-27 17:45:46,512 [DEBUG]   [2] ✅ Title  : Sandoz shares jump on improved guidance
+2026-04-27 17:45:46,512 [DEBUG]   [2] ✅ Source : MSN
+2026-04-27 17:45:46,513 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMizAJBVV95cUxPbnF5WWxRbGc2TGZDRXRqb1lSdlN
+2026-04-27 17:45:46,513 [DEBUG]   [2] ✅ Date   : 26-04-2026 13:07 UTC
+2026-04-27 17:45:46,513 [DEBUG]   [2] ⏩ Skipped (irrelevant): Sandoz shares jump on improved guidance
+2026-04-27 17:45:46,513 [DEBUG]   [3] ✅ Title  : Atlassian Elevates Avani Solanki Prabhakar to Lead People and AI Transformation
+2026-04-27 17:45:46,513 [DEBUG]   [3] ✅ Source : People Matters Global
+2026-04-27 17:45:46,513 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSGxHR2M5c2pSVUVhaG1QUkk0Snl
+2026-04-27 17:45:46,513 [DEBUG]   [3] ✅ Date   : 27-04-2026 05:30 UTC
+2026-04-27 17:45:46,513 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:45:46,513 [DEBUG]   [4] ✅ Title  : PlantNebraska to host spring plant sales
+2026-04-27 17:45:46,514 [DEBUG]   [4] ✅ Source : Nebraska Today
+2026-04-27 17:45:46,514 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMieEFVX3lxTE5vNGpvLThZNFVGdThDXzZoUzJFMXo
+2026-04-27 17:45:46,514 [DEBUG]   [4] ✅ Date   : 27-04-2026 05:18 UTC
+2026-04-27 17:45:46,514 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:45:46,514 [DEBUG]   [5] ✅ Title  : Bachelor Nick Viall Reunites With Andi Dorfman and Kaitlyn Bristowe - ABC News
+2026-04-27 17:45:46,514 [DEBUG]   [5] ✅ Source : ABC News - Breaking News, Latest News and Videos
+2026-04-27 17:45:46,514 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMirwFBVV95cUxPV1RvWTQ4eFROSVNVN19xYUYyMlg
+2026-04-27 17:45:46,514 [DEBUG]   [5] ✅ Date   : 26-04-2026 21:22 UTC
+2026-04-27 17:45:46,515 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:45:46,515 [DEBUG]   [6] ✅ Title  : Weekly news highlights from around the area
+2026-04-27 17:45:46,515 [DEBUG]   [6] ✅ Source : The Norfolk Daily News
+2026-04-27 17:45:46,515 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3B0UlZIOVVKUlE4RFpiMXJQWE1
+2026-04-27 17:45:46,515 [DEBUG]   [6] ✅ Date   : 26-04-2026 13:20 UTC
+2026-04-27 17:45:46,515 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:45:46,515 [DEBUG]   [7] ✅ Title  : Generic versions of weight-loss drugs should arrive on Canadian pharmacy shelves
+2026-04-27 17:45:46,515 [DEBUG]   [7] ✅ Source : MSN
+2026-04-27 17:45:46,515 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMiowNBVV95cUxOLVptV1NQeG1qNDY2Vnp0bU9FeW9
+2026-04-27 17:45:46,515 [DEBUG]   [7] ✅ Date   : 26-04-2026 16:30 UTC
+2026-04-27 17:45:46,515 [DEBUG]   [7] ⏩ Skipped (irrelevant): Generic versions of weight-loss drugs should arrive on Canad
+2026-04-27 17:45:46,516 [DEBUG]   [8] ✅ Title  : Mark-ups on "Citramon" and ignoring fines: How "Apteka Dobroho Dnya" circumvents
+2026-04-27 17:45:46,516 [DEBUG]   [8] ✅ Source : АНТИКОР
+2026-04-27 17:45:46,517 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR2t4ZWozVnB4UXA3SURINmdOUC0
+2026-04-27 17:45:46,517 [DEBUG]   [8] ✅ Date   : 27-04-2026 05:30 UTC
+2026-04-27 17:45:46,518 [DEBUG]   [8] ✅ Added to results
+2026-04-27 17:45:46,518 [INFO] ✅ Collected 5 valid articles for 'Sandoz'
+2026-04-27 17:45:48,521 [INFO] ─── Fetching news for: Stada ───
+2026-04-27 17:45:48,521 [INFO] 🔍 Fetching RSS for 'Stada': https://news.google.com/rss/search?q=Stada+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:45:48,522 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:45:49,388 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Stada+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:45:49,390 [DEBUG] ✅ HTTP 200 — RSS size: 1,122 chars
+2026-04-27 17:45:49,390 [INFO] 📰 Found 0 RSS items for 'Stada'
+2026-04-27 17:45:49,391 [WARNING] ⚠️  0 articles in RSS for 'Stada'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:45:51,392 [INFO] ─── Fetching news for: Formycon ───
+2026-04-27 17:45:51,393 [INFO] 🔍 Fetching RSS for 'Formycon': https://news.google.com/rss/search?q=Formycon+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:45:51,396 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:45:52,240 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Formycon+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:45:52,241 [DEBUG] ✅ HTTP 200 — RSS size: 2,750 chars
+2026-04-27 17:45:52,242 [INFO] 📰 Found 1 RSS items for 'Formycon'
+2026-04-27 17:45:52,242 [DEBUG]   [1] ✅ Title  : Yi Chen Maintains Buy on Formycon, Trims Price Target to €36 on Strong EBITDA an
+2026-04-27 17:45:52,242 [DEBUG]   [1] ✅ Source : TipRanks
+2026-04-27 17:45:52,242 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZEQyUHB3Y3lXOEJWcU92S2ZVcUw
+2026-04-27 17:45:52,242 [DEBUG]   [1] ✅ Date   : 27-04-2026 11:07 UTC
+2026-04-27 17:45:52,242 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:45:52,243 [INFO] ✅ Collected 1 valid articles for 'Formycon'
+2026-04-27 17:45:54,245 [INFO] ─── Fetching news for: Gedeon Richter ───
+2026-04-27 17:45:54,246 [INFO] 🔍 Fetching RSS for 'Gedeon Richter': https://news.google.com/rss/search?q=Gedeon+Richter+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:45:54,250 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:45:54,909 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Gedeon+Richter+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:45:54,910 [DEBUG] ✅ HTTP 200 — RSS size: 2,242 chars
+2026-04-27 17:45:54,911 [INFO] 📰 Found 1 RSS items for 'Gedeon Richter'
+2026-04-27 17:45:54,912 [DEBUG]   [1] ✅ Title  : Dividend Stocks April 26: Richter Gedeon Yields 4.84% Gains
+2026-04-27 17:45:54,913 [DEBUG]   [1] ✅ Source : Meyka
+2026-04-27 17:45:54,914 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnlWcnhFWU0zb19pYW1mbjZwSVh
+2026-04-27 17:45:54,919 [DEBUG]   [1] ✅ Date   : 26-04-2026 21:00 UTC
+2026-04-27 17:45:54,919 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:45:54,920 [INFO] ✅ Collected 1 valid articles for 'Gedeon Richter'
+2026-04-27 17:45:56,925 [INFO] ─── Fetching news for: Boehringer Ingelheim ───
+2026-04-27 17:45:56,927 [INFO] 🔍 Fetching RSS for 'Boehringer Ingelheim': https://news.google.com/rss/search?q=Boehringer+Ingelheim+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:45:56,929 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:45:57,982 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Boehringer+Ingelheim+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:45:57,984 [DEBUG] ✅ HTTP 200 — RSS size: 14,324 chars
+2026-04-27 17:45:57,985 [INFO] 📰 Found 8 RSS items for 'Boehringer Ingelheim'
+2026-04-27 17:45:57,986 [DEBUG]   [1] ✅ Title  : Boehringer Ingelheim India, NIPER Hajipur sign MoU for research and education co
+2026-04-27 17:45:57,987 [DEBUG]   [1] ✅ Source : Express Pharma
+2026-04-27 17:45:57,987 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzBsZG1aYnBjSUFmaU9NeGRVaWV
+2026-04-27 17:45:57,987 [DEBUG]   [1] ✅ Date   : 27-04-2026 04:30 UTC
+2026-04-27 17:45:57,988 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:45:57,988 [DEBUG]   [2] ✅ Title  : NIPER Hajipur, Boehringer Ingelheim India Join Hands to Fast-track Translational
+2026-04-27 17:45:57,989 [DEBUG]   [2] ✅ Source : Digital Health News
+2026-04-27 17:45:57,990 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUtyXzZteGt1Q3FsQkVMZmkyNFJ
+2026-04-27 17:45:57,990 [DEBUG]   [2] ✅ Date   : 27-04-2026 08:01 UTC
+2026-04-27 17:45:57,991 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:45:57,992 [DEBUG]   [3] ✅ Title  : NIPER Hajipur Signs MoU with Boehringer Ingelheim to Advance Pharmaceutical Rese
+2026-04-27 17:45:57,993 [DEBUG]   [3] ✅ Source : India Education Diary
+2026-04-27 17:45:57,993 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiygFBVV95cUxOY3U1M0FUcVlVMXFmdXBIZDdyTFR
+2026-04-27 17:45:57,993 [DEBUG]   [3] ✅ Date   : 27-04-2026 08:01 UTC
+2026-04-27 17:45:57,994 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:45:57,994 [DEBUG]   [4] ✅ Title  : Veterinarians overworked, at risk of burnout, study finds
+2026-04-27 17:45:57,994 [DEBUG]   [4] ✅ Source : MSN
+2026-04-27 17:45:57,994 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMi3gJBVV95cUxPalZsU3FBVFVleUtWdUFDVjM1amd
+2026-04-27 17:45:57,995 [DEBUG]   [4] ✅ Date   : 26-04-2026 16:52 UTC
+2026-04-27 17:45:57,997 [DEBUG]   [4] ⏩ Skipped (irrelevant): Veterinarians overworked, at risk of burnout, study finds
+2026-04-27 17:45:57,999 [DEBUG]   [5] ✅ Title  : Barangay-based kidney health screening launched
+2026-04-27 17:45:57,999 [DEBUG]   [5] ✅ Source : Philstar.com
+2026-04-27 17:45:58,000 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRG90X3EwZTZDbS10Q3RaUWd3NWR
+2026-04-27 17:45:58,001 [DEBUG]   [5] ✅ Date   : 27-04-2026 02:30 UTC
+2026-04-27 17:45:58,001 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:45:58,002 [DEBUG]   [6] ✅ Title  : World Cat Vaccine - Market Analysis, Forecast, Size, Trends and Insights
+2026-04-27 17:45:58,003 [DEBUG]   [6] ✅ Source : IndexBox
+2026-04-27 17:45:58,004 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaUdJY1h6LXUyWDBZSm9JNHVSRXl
+2026-04-27 17:45:58,004 [DEBUG]   [6] ✅ Date   : 26-04-2026 22:31 UTC
+2026-04-27 17:45:58,006 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:45:58,009 [DEBUG]   [7] ✅ Title  : Leading Companies Enhancing Their Presence in the Veterinary Clinical Trials Mar
+2026-04-27 17:45:58,009 [DEBUG]   [7] ✅ Source : openPR.com
+2026-04-27 17:45:58,009 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMinAFBVV95cUxOUzNCMVhlaVBDWmlJUkR1a2lvOXF
+2026-04-27 17:45:58,010 [DEBUG]   [7] ✅ Date   : 27-04-2026 05:15 UTC
+2026-04-27 17:45:58,010 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:45:58,010 [DEBUG]   [8] ✅ Title  : Southeast Asia's RNAi Technology Market Poised for Rapid Expansion, Projected to
+2026-04-27 17:45:58,011 [DEBUG]   [8] ✅ Source : Thailand Business News
+2026-04-27 17:45:58,012 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWWpJNWtIeTc1WG1OZlNCTXFpeWp
+2026-04-27 17:45:58,012 [DEBUG]   [8] ✅ Date   : 27-04-2026 04:37 UTC
+2026-04-27 17:45:58,013 [DEBUG]   [8] ✅ Added to results
+2026-04-27 17:45:58,013 [INFO] ✅ Collected 7 valid articles for 'Boehringer Ingelheim'
+2026-04-27 17:46:00,017 [INFO] ─── Fetching news for: Hikma ───
+2026-04-27 17:46:00,018 [INFO] 🔍 Fetching RSS for 'Hikma': https://news.google.com/rss/search?q=Hikma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:00,020 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:01,053 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Hikma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:01,055 [DEBUG] ✅ HTTP 200 — RSS size: 5,831 chars
+2026-04-27 17:46:01,055 [INFO] 📰 Found 3 RSS items for 'Hikma'
+2026-04-27 17:46:01,056 [DEBUG]   [1] ✅ Title  : Hikma Advances $250m Buyback, Shrinks Share Count Further
+2026-04-27 17:46:01,056 [DEBUG]   [1] ✅ Source : TipRanks
+2026-04-27 17:46:01,057 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdXdDLXFBMjZXeHRnWnN5blNmUnp
+2026-04-27 17:46:01,057 [DEBUG]   [1] ✅ Date   : 27-04-2026 11:00 UTC
+2026-04-27 17:46:01,058 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:01,061 [DEBUG]   [2] ✅ Title  : Income stocks: aim to earn £5,000 while sleeping in 2026
+2026-04-27 17:46:01,061 [DEBUG]   [2] ✅ Source : MSN
+2026-04-27 17:46:01,062 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMi_gJBVV95cUxOcDZvQUI1N3FoaWljUC13Z29mLXF
+2026-04-27 17:46:01,062 [DEBUG]   [2] ✅ Date   : 26-04-2026 19:05 UTC
+2026-04-27 17:46:01,063 [DEBUG]   [2] ⏩ Skipped (irrelevant): Income stocks: aim to earn £5,000 while sleeping in 2026
+2026-04-27 17:46:01,063 [DEBUG]   [3] ✅ Title  : Mubaje graces African continental Quran competition, calls for protection of Isl
+2026-04-27 17:46:01,063 [DEBUG]   [3] ✅ Source : Nilepost News
+2026-04-27 17:46:01,064 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMizAFBVV95cUxQOC1zZzBvNDd2SVlac003WjU0Vml
+2026-04-27 17:46:01,064 [DEBUG]   [3] ✅ Date   : 27-04-2026 06:48 UTC
+2026-04-27 17:46:01,065 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:01,066 [INFO] ✅ Collected 2 valid articles for 'Hikma'
+2026-04-27 17:46:03,071 [INFO] ─── Fetching news for: Amgen ───
+2026-04-27 17:46:03,072 [INFO] 🔍 Fetching RSS for 'Amgen': https://news.google.com/rss/search?q=Amgen+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:03,075 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:04,121 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Amgen+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:04,122 [DEBUG] ✅ HTTP 200 — RSS size: 18,949 chars
+2026-04-27 17:46:04,123 [INFO] 📰 Found 11 RSS items for 'Amgen'
+2026-04-27 17:46:04,123 [DEBUG]   [1] ✅ Title  : Amgen and GSK said to be adding products on TrumpRx
+2026-04-27 17:46:04,124 [DEBUG]   [1] ✅ Source : MSN
+2026-04-27 17:46:04,124 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMilwNBVV95cUxNaHE2cmZPS3lsS3FZWUZ0YXV3alh
+2026-04-27 17:46:04,124 [DEBUG]   [1] ✅ Date   : 27-04-2026 09:22 UTC
+2026-04-27 17:46:04,124 [DEBUG]   [1] ⏩ Skipped (irrelevant): Amgen and GSK said to be adding products on TrumpRx
+2026-04-27 17:46:04,124 [DEBUG]   [2] ✅ Title  : Comerica Bank Has $50.76 Million Stake in Amgen Inc. $AMGN
+2026-04-27 17:46:04,125 [DEBUG]   [2] ✅ Source : MarketBeat
+2026-04-27 17:46:04,125 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMitgFBVV95cUxQblo0TTZYS18wd3hycXYyVFRaZmR
+2026-04-27 17:46:04,125 [DEBUG]   [2] ✅ Date   : 27-04-2026 09:03 UTC
+2026-04-27 17:46:04,125 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:46:04,126 [DEBUG]   [3] ✅ Title  : Amgen Inc. $AMGN Shares Purchased by Pictet Asset Management Holding SA
+2026-04-27 17:46:04,126 [DEBUG]   [3] ✅ Source : MarketBeat
+2026-04-27 17:46:04,126 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiygFBVV95cUxPQUJNc1k4R0lGLWhNem5SdC1QeUF
+2026-04-27 17:46:04,127 [DEBUG]   [3] ✅ Date   : 27-04-2026 11:12 UTC
+2026-04-27 17:46:04,127 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:04,127 [DEBUG]   [4] ✅ Title  : D.A. Davidson & CO. Has $81.22 Million Holdings in Amgen Inc. $AMGN
+2026-04-27 17:46:04,127 [DEBUG]   [4] ✅ Source : MarketBeat
+2026-04-27 17:46:04,128 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTdQdlpOQnVjcFFJTWlGRnZ3MHJ
+2026-04-27 17:46:04,128 [DEBUG]   [4] ✅ Date   : 27-04-2026 08:41 UTC
+2026-04-27 17:46:04,130 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:46:04,130 [DEBUG]   [5] ✅ Title  : Kestra Private Wealth Services LLC Purchases 4,090 Shares of Amgen Inc. $AMGN
+2026-04-27 17:46:04,130 [DEBUG]   [5] ✅ Source : MarketBeat
+2026-04-27 17:46:04,130 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeThJUFlBRXFYVVZBRVd6ZjB1OWY
+2026-04-27 17:46:04,131 [DEBUG]   [5] ✅ Date   : 27-04-2026 11:11 UTC
+2026-04-27 17:46:04,132 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:46:04,133 [DEBUG]   [6] ✅ Title  : State of Michigan Retirement System Sells 4,600 Shares of Amgen Inc. $AMGN
+2026-04-27 17:46:04,133 [DEBUG]   [6] ✅ Source : MarketBeat
+2026-04-27 17:46:04,133 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1hlcXlGMm4yd2F1X2N0b0RfMWx
+2026-04-27 17:46:04,133 [DEBUG]   [6] ✅ Date   : 27-04-2026 10:52 UTC
+2026-04-27 17:46:04,134 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:46:04,135 [DEBUG]   [7] ✅ Title  : Amgen Inc. stock (US0311621009): Is its obesity drug pipeline strong enough to u
+2026-04-27 17:46:04,135 [DEBUG]   [7] ✅ Source : AD HOC NEWS
+2026-04-27 17:46:04,136 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXNaYy0zQjFLZ1F1TG1nN2FEd2F
+2026-04-27 17:46:04,136 [DEBUG]   [7] ✅ Date   : 26-04-2026 15:40 UTC
+2026-04-27 17:46:04,137 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:46:04,137 [DEBUG]   [8] ✅ Title  : Why Amgen Inc. (AMGN) is One of the Best Stem Cell Therapy Stocks to Buy
+2026-04-27 17:46:04,138 [DEBUG]   [8] ✅ Source : Insider Monkey
+2026-04-27 17:46:04,138 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMiswFBVV95cUxPOTNtdl90VUJlMnJGY1BsNjdiNzB
+2026-04-27 17:46:04,138 [DEBUG]   [8] ✅ Date   : 27-04-2026 06:00 UTC
+2026-04-27 17:46:04,138 [DEBUG]   [8] ✅ Added to results
+2026-04-27 17:46:04,138 [DEBUG]   [9] ✅ Title  : Amgen (AMGN) stock slides as market rises: Facts to know before you trade
+2026-04-27 17:46:04,139 [DEBUG]   [9] ✅ Source : MSN
+2026-04-27 17:46:04,139 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMi2AJBVV95cUxPOUxGMThXc0N0TF9JUXdPMnEzUXB
+2026-04-27 17:46:04,139 [DEBUG]   [9] ✅ Date   : 26-04-2026 19:26 UTC
+2026-04-27 17:46:04,139 [DEBUG]   [9] ⏩ Skipped (irrelevant): Amgen (AMGN) stock slides as market rises: Facts to know bef
+2026-04-27 17:46:04,139 [DEBUG]   [10] ✅ Title  : Vanguard Group Inc. Raises Stock Position in Amgen Inc. $AMGN
+2026-04-27 17:46:04,139 [DEBUG]   [10] ✅ Source : MarketBeat
+2026-04-27 17:46:04,139 [DEBUG]   [10] ✅ Link   : https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUnQ2SjZWb1RENTE0RlFjWXlxXzV
+2026-04-27 17:46:04,140 [DEBUG]   [10] ✅ Date   : 26-04-2026 12:24 UTC
+2026-04-27 17:46:04,140 [DEBUG]   [10] ✅ Added to results
+2026-04-27 17:46:04,140 [DEBUG]   [11] ✅ Title  : Viridian Therapeutics stock is tanking. Why the drop is linked to this Amgen stu
+2026-04-27 17:46:04,140 [DEBUG]   [11] ✅ Source : MSN
+2026-04-27 17:46:04,140 [DEBUG]   [11] ✅ Link   : https://news.google.com/rss/articles/CBMigANBVV95cUxQeXcyWGI1WVgzbTNiRm5uRmstVk1
+2026-04-27 17:46:04,140 [DEBUG]   [11] ✅ Date   : 26-04-2026 17:16 UTC
+2026-04-27 17:46:04,140 [DEBUG]   [11] ⏩ Skipped (irrelevant): Viridian Therapeutics stock is tanking. Why the drop is link
+2026-04-27 17:46:04,140 [INFO] ✅ Collected 8 valid articles for 'Amgen'
+2026-04-27 17:46:06,143 [INFO] ─── Fetching news for: Amneal Kashiv Biosciences ───
+2026-04-27 17:46:06,144 [INFO] 🔍 Fetching RSS for 'Amneal Kashiv Biosciences': https://news.google.com/rss/search?q=Amneal+Kashiv+Biosciences+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:06,146 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:06,831 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Amneal+Kashiv+Biosciences+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:06,832 [DEBUG] ✅ HTTP 200 — RSS size: 12,295 chars
+2026-04-27 17:46:06,832 [INFO] 📰 Found 7 RSS items for 'Amneal Kashiv Biosciences'
+2026-04-27 17:46:06,832 [DEBUG]   [1] ✅ Title  : Amneal Pharmaceuticals To Acquire Kashiv BioSciences To Build Fully Integrated G
+2026-04-27 17:46:06,833 [DEBUG]   [1] ✅ Source : Pulse 2.0
+2026-04-27 17:46:06,833 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMixAFBVV95cUxPanNiVDVpR2oxRjU5QmNuRFgyVGR
+2026-04-27 17:46:06,833 [DEBUG]   [1] ✅ Date   : 27-04-2026 02:01 UTC
+2026-04-27 17:46:06,833 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:06,833 [DEBUG]   [2] ✅ Title  : Amneal to buy Kashiv in $750M deal; raises FY26 EPS outlook
+2026-04-27 17:46:06,833 [DEBUG]   [2] ✅ Source : MSN
+2026-04-27 17:46:06,833 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMi6AJBVV95cUxPaGk4T0dNUTVzMDZWaS1abXdyLS1
+2026-04-27 17:46:06,833 [DEBUG]   [2] ✅ Date   : 27-04-2026 07:24 UTC
+2026-04-27 17:46:06,833 [DEBUG]   [2] ⏩ Skipped (irrelevant): Amneal to buy Kashiv in $750M deal; raises FY26 EPS outlook
+2026-04-27 17:46:06,833 [DEBUG]   [3] ✅ Title  : Sun Pharma Announces $11.75 Bn All-Cash Acquisition of Organon
+2026-04-27 17:46:06,834 [DEBUG]   [3] ✅ Source : Digital Health News
+2026-04-27 17:46:06,834 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMimwFBVV95cUxQRGVaOWxyTTRwMjJNOW8tUDEwM0Q
+2026-04-27 17:46:06,834 [DEBUG]   [3] ✅ Date   : 27-04-2026 07:47 UTC
+2026-04-27 17:46:06,834 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:06,834 [DEBUG]   [4] ✅ Title  : Quadria Capital-Led Group Seeks Majority Control of Samarth Lifesciences at INR 
+2026-04-27 17:46:06,834 [DEBUG]   [4] ✅ Source : Digital Health News
+2026-04-27 17:46:06,834 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMivwFBVV95cUxOeThtemtGYVdFQTZsZFg3aXdBdTR
+2026-04-27 17:46:06,834 [DEBUG]   [4] ✅ Date   : 27-04-2026 07:54 UTC
+2026-04-27 17:46:06,834 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:46:06,834 [DEBUG]   [5] ✅ Title  : NIPER Hajipur, Boehringer Ingelheim India Join Hands to Fast-track Translational
+2026-04-27 17:46:06,834 [DEBUG]   [5] ✅ Source : Digital Health News
+2026-04-27 17:46:06,835 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUtyXzZteGt1Q3FsQkVMZmkyNFJ
+2026-04-27 17:46:06,835 [DEBUG]   [5] ✅ Date   : 27-04-2026 08:01 UTC
+2026-04-27 17:46:06,835 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:46:06,835 [DEBUG]   [6] ✅ Title  : PM Jan Arogya Yojana Crosses INR 1.5 lakh Cr in Free Care, Tamil Nadu & Karnatak
+2026-04-27 17:46:06,835 [DEBUG]   [6] ✅ Source : Digital Health News
+2026-04-27 17:46:06,835 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1BjZV84MzhEUnhDS3lQM2RlYVV
+2026-04-27 17:46:06,835 [DEBUG]   [6] ✅ Date   : 27-04-2026 09:13 UTC
+2026-04-27 17:46:06,835 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:46:06,835 [DEBUG]   [7] ✅ Title  : The Cigna Group Standardizes Prior Authorization Process To Improve Care Access
+2026-04-27 17:46:06,835 [DEBUG]   [7] ✅ Source : Digital Health News
+2026-04-27 17:46:06,835 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0NzWlZYNDV2TWI2WnZkamtWQll
+2026-04-27 17:46:06,835 [DEBUG]   [7] ✅ Date   : 27-04-2026 08:13 UTC
+2026-04-27 17:46:06,835 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:46:06,836 [INFO] ✅ Collected 6 valid articles for 'Amneal Kashiv Biosciences'
+2026-04-27 17:46:08,837 [INFO] ─── Fetching news for: Organon ───
+2026-04-27 17:46:08,837 [INFO] 🔍 Fetching RSS for 'Organon': https://news.google.com/rss/search?q=Organon+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:08,839 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:10,167 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Organon+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:10,216 [DEBUG] ✅ HTTP 200 — RSS size: 191,987 chars
+2026-04-27 17:46:10,218 [INFO] 📰 Found 100 RSS items for 'Organon'
+2026-04-27 17:46:10,218 [DEBUG]   [1] ✅ Title  : Sun Pharma to Acquire US-Listed Organon in $12 Billion Deal
+2026-04-27 17:46:10,218 [DEBUG]   [1] ✅ Source : Bloomberg.com
+2026-04-27 17:46:10,219 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTc1cDhOQWRUZExpZW5HU3VrR2l
+2026-04-27 17:46:10,219 [DEBUG]   [1] ✅ Date   : 27-04-2026 10:16 UTC
+2026-04-27 17:46:10,219 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:10,219 [DEBUG]   [2] ✅ Title  : Sun Pharma to acquire U.S. firm Organon in $11.75 billion deal
+2026-04-27 17:46:10,220 [DEBUG]   [2] ✅ Source : The Hindu
+2026-04-27 17:46:10,220 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWNVUVZSbVJaVmFrWWh1dnV0MUV
+2026-04-27 17:46:10,220 [DEBUG]   [2] ✅ Date   : 27-04-2026 04:01 UTC
+2026-04-27 17:46:10,220 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:46:10,220 [DEBUG]   [3] ✅ Title  : Sun Pharma shares jump 7% as India's largest drugmaker to buy U.S. firm Organon 
+2026-04-27 17:46:10,220 [DEBUG]   [3] ✅ Source : CNBC
+2026-04-27 17:46:10,221 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWZQamxKeFFmTU9MYmxhYU5YYVh
+2026-04-27 17:46:10,221 [DEBUG]   [3] ✅ Date   : 27-04-2026 02:13 UTC
+2026-04-27 17:46:10,221 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:10,221 [DEBUG]   [4] ✅ Title  : Sun Pharma to acquire US-based Organon in $11.75 billion deal, among biggest ove
+2026-04-27 17:46:10,221 [DEBUG]   [4] ✅ Source : The Times of India
+2026-04-27 17:46:10,221 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMijgJBVV95cUxOWkVBNVplM0tFTm9hMGZ5SC1zcTN
+2026-04-27 17:46:10,222 [DEBUG]   [4] ✅ Date   : 27-04-2026 04:24 UTC
+2026-04-27 17:46:10,222 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:46:10,222 [DEBUG]   [5] ✅ Title  : Sun Pharma's biggest-ever bet: Mega Organon deal, debt risk and global push
+2026-04-27 17:46:10,222 [DEBUG]   [5] ✅ Source : India Today
+2026-04-27 17:46:10,222 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbDR5SGd4X0tHMkhDUWx3dEh6emY
+2026-04-27 17:46:10,222 [DEBUG]   [5] ✅ Date   : 27-04-2026 05:01 UTC
+2026-04-27 17:46:10,222 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:46:10,223 [DEBUG]   [6] ✅ Title  : Sun Pharma to Buy U.S. Healthcare Firm Organon in $11.75 Billion Deal
+2026-04-27 17:46:10,223 [DEBUG]   [6] ✅ Source : WSJ
+2026-04-27 17:46:10,223 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZW1XMmtMVEZGWURySHhvQWZuRlF
+2026-04-27 17:46:10,224 [DEBUG]   [6] ✅ Date   : 27-04-2026 02:24 UTC
+2026-04-27 17:46:10,224 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:46:10,224 [DEBUG]   [7] ✅ Title  : Sun Pharma puts seal on $11.75B Organon buyout
+2026-04-27 17:46:10,225 [DEBUG]   [7] ✅ Source : FirstWord Pharma
+2026-04-27 17:46:10,225 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMiU0FVX3lxTE81MVB0aHhzSGJnX244ZVZHRzVhZjZ
+2026-04-27 17:46:10,226 [DEBUG]   [7] ✅ Date   : 27-04-2026 07:53 UTC
+2026-04-27 17:46:10,226 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:46:10,227 [DEBUG]   [8] ✅ Title  : Sun Pharma signs Definitive Agreement to Acquire Organon
+2026-04-27 17:46:10,227 [DEBUG]   [8] ✅ Source : Business Wire
+2026-04-27 17:46:10,227 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnpXMXVJOEphZXFINWNRaVdfcDF
+2026-04-27 17:46:10,228 [DEBUG]   [8] ✅ Date   : 26-04-2026 23:51 UTC
+2026-04-27 17:46:10,230 [DEBUG]   [8] ✅ Added to results
+2026-04-27 17:46:10,231 [DEBUG]   [9] ✅ Title  : Sun Pharma shares jump over 7% after Organon acquisition; Macquarie sees debt-fr
+2026-04-27 17:46:10,231 [DEBUG]   [9] ✅ Source : Moneycontrol.com
+2026-04-27 17:46:10,232 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWFdTdHU0aTZydjJydzVlWG5VemN
+2026-04-27 17:46:10,233 [DEBUG]   [9] ✅ Date   : 27-04-2026 04:11 UTC
+2026-04-27 17:46:10,234 [DEBUG]   [9] ✅ Added to results
+2026-04-27 17:46:10,234 [DEBUG]   [10] ✅ Title  : Sun Pharma to buy US drugmaker Organon for $11.75 billion in India's largest pha
+2026-04-27 17:46:10,234 [DEBUG]   [10] ✅ Source : Reuters
+2026-04-27 17:46:10,235 [DEBUG]   [10] ✅ Link   : https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0Y4NFc5aDZpdXQxOFJuZmRGaGF
+2026-04-27 17:46:10,235 [DEBUG]   [10] ✅ Date   : 27-04-2026 00:01 UTC
+2026-04-27 17:46:10,235 [DEBUG]   [10] ✅ Added to results
+2026-04-27 17:46:10,235 [DEBUG]   [11] ✅ Title  : Sun Pharma to expand global reach with Organon buy
+2026-04-27 17:46:10,236 [DEBUG]   [11] ✅ Source : BioXconomy
+2026-04-27 17:46:10,236 [DEBUG]   [11] ✅ Link   : https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFJvUTcwaVd0Q1k1aVB1cU5tUm5
+2026-04-27 17:46:10,236 [DEBUG]   [11] ✅ Date   : 27-04-2026 10:52 UTC
+2026-04-27 17:46:10,236 [DEBUG]   [11] ✅ Added to results
+2026-04-27 17:46:10,236 [DEBUG]   [12] ✅ Title  : Sun Pharma Shares Rally 9% after $11.75 Bn Organon Acquisition
+2026-04-27 17:46:10,237 [DEBUG]   [12] ✅ Source : outlookbusiness.com
+2026-04-27 17:46:10,237 [DEBUG]   [12] ✅ Link   : https://news.google.com/rss/articles/CBMipgFBVV95cUxPMVRKaHVVY2RKaHBVa05JRUdvSlV
+2026-04-27 17:46:10,237 [DEBUG]   [12] ✅ Date   : 27-04-2026 09:35 UTC
+2026-04-27 17:46:10,237 [DEBUG]   [12] ✅ Added to results
+2026-04-27 17:46:10,238 [DEBUG]   [13] ✅ Title  : Sun Pharma to acquire Organon for $11.75 billion in India’s largest pharma acqui
+2026-04-27 17:46:10,238 [DEBUG]   [13] ✅ Source : Storyboard18
+2026-04-27 17:46:10,238 [DEBUG]   [13] ✅ Link   : https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN19DUjExaGtPMVh0R2NkbUpuazB
+2026-04-27 17:46:10,238 [DEBUG]   [13] ✅ Date   : 27-04-2026 08:31 UTC
+2026-04-27 17:46:10,238 [DEBUG]   [13] ✅ Added to results
+2026-04-27 17:46:10,238 [DEBUG]   [14] ✅ Title  : Sun Pharma Management Expects Organon Acquisition To Unlock Cost Synergies Worth
+2026-04-27 17:46:10,238 [DEBUG]   [14] ✅ Source : NDTV Profit
+2026-04-27 17:46:10,238 [DEBUG]   [14] ✅ Link   : https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcF9MZHNoNm1hZFBnYUg2RjVLRW5
+2026-04-27 17:46:10,238 [DEBUG]   [14] ✅ Date   : 27-04-2026 11:59 UTC
+2026-04-27 17:46:10,238 [DEBUG]   [14] ✅ Added to results
+2026-04-27 17:46:10,239 [DEBUG]   [15] ✅ Title  : Sun Pharma shares rise 9% after $11.75B Organon acquisition confirmed
+2026-04-27 17:46:10,239 [DEBUG]   [15] ✅ Source : The Pharma Letter
+2026-04-27 17:46:10,239 [DEBUG]   [15] ✅ Link   : https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcVZPTnNtUjJmUktuLUZtZEdOTWl
+2026-04-27 17:46:10,239 [DEBUG]   [15] ✅ Date   : 27-04-2026 11:34 UTC
+2026-04-27 17:46:10,239 [DEBUG]   [15] ✅ Added to results
+2026-04-27 17:46:10,239 [INFO] ✅ Collected 15 valid articles for 'Organon'
+2026-04-27 17:46:12,241 [INFO] ─── Fetching news for: Apotex ───
+2026-04-27 17:46:12,242 [INFO] 🔍 Fetching RSS for 'Apotex': https://news.google.com/rss/search?q=Apotex+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:12,245 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:13,231 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Apotex+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:13,233 [DEBUG] ✅ HTTP 200 — RSS size: 4,541 chars
+2026-04-27 17:46:13,234 [INFO] 📰 Found 2 RSS items for 'Apotex'
+2026-04-27 17:46:13,235 [DEBUG]   [1] ✅ Title  : Cumberland to sell drug portfolio to Apotex for $100m
+2026-04-27 17:46:13,235 [DEBUG]   [1] ✅ Source : MSN
+2026-04-27 17:46:13,236 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMi2AJBVV95cUxQRU4xLTZlM3hpcERLMnlVZzlpc2J
+2026-04-27 17:46:13,236 [DEBUG]   [1] ✅ Date   : 27-04-2026 00:13 UTC
+2026-04-27 17:46:13,237 [DEBUG]   [1] ⏩ Skipped (irrelevant): Cumberland to sell drug portfolio to Apotex for $100m
+2026-04-27 17:46:13,237 [DEBUG]   [2] ✅ Title  : RedHill Biopharma Announces Full-Year 2025 Financial Results and Operational Hig
+2026-04-27 17:46:13,237 [DEBUG]   [2] ✅ Source : Morningstar
+2026-04-27 17:46:13,238 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSzNyNTVkZ001MVJzalduOUxIU1d
+2026-04-27 17:46:13,238 [DEBUG]   [2] ✅ Date   : 27-04-2026 12:00 UTC
+2026-04-27 17:46:13,239 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:46:13,239 [INFO] ✅ Collected 1 valid articles for 'Apotex'
+2026-04-27 17:46:15,243 [INFO] ─── Fetching news for: Plant Form ───
+2026-04-27 17:46:15,244 [INFO] 🔍 Fetching RSS for 'Plant Form': https://news.google.com/rss/search?q=Plant+Form+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:15,246 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:16,208 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Plant+Form+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:16,215 [DEBUG] ✅ HTTP 200 — RSS size: 67,143 chars
+2026-04-27 17:46:16,217 [INFO] 📰 Found 43 RSS items for 'Plant Form'
+2026-04-27 17:46:16,217 [DEBUG]   [1] ✅ Title  : NIT Jamshedpur Students Explore Thermal Power Operations at Adhunik Power
+2026-04-27 17:46:16,217 [DEBUG]   [1] ✅ Source : The Avenue Mail
+2026-04-27 17:46:16,218 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcTRfRHBXUVpGVzk2dlNVcS1mZmV
+2026-04-27 17:46:16,218 [DEBUG]   [1] ✅ Date   : 27-04-2026 10:41 UTC
+2026-04-27 17:46:16,219 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:16,219 [DEBUG]   [2] ✅ Title  : Americas Gold & Silver (NYSE American: USAS) details Galena and Crescent 2026 gr
+2026-04-27 17:46:16,220 [DEBUG]   [2] ✅ Source : Stock Titan
+2026-04-27 17:46:16,220 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkYyWV9XOEFldmw2VUFfaVNtUnh
+2026-04-27 17:46:16,220 [DEBUG]   [2] ✅ Date   : 27-04-2026 11:23 UTC
+2026-04-27 17:46:16,220 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:46:16,220 [DEBUG]   [3] ✅ Title  : On April 26, Hao Mei New Material announced that in order to improve i
+2026-04-27 17:46:16,220 [DEBUG]   [3] ✅ Source : Shanghai Metals Market
+2026-04-27 17:46:16,220 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMixwFBVV95cUxQVmtva1VUVWVrM09VdHRicFI1Uy1
+2026-04-27 17:46:16,221 [DEBUG]   [3] ✅ Date   : 26-04-2026 17:57 UTC
+2026-04-27 17:46:16,221 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:16,221 [DEBUG]   [4] ✅ Title  : Long queues form as qualified beneficiaries purchase subsidized rice priced at P
+2026-04-27 17:46:16,221 [DEBUG]   [4] ✅ Source : facebook.com
+2026-04-27 17:46:16,221 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLUVIaFl3d21wSnh1MGJla09VSFB
+2026-04-27 17:46:16,222 [DEBUG]   [4] ✅ Date   : 27-04-2026 06:10 UTC
+2026-04-27 17:46:16,222 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:46:16,223 [DEBUG]   [5] ✅ Title  : Sawalkote Project Row: Ramban Residents Form JAC, Oppose Shift of Benefits and C
+2026-04-27 17:46:16,224 [DEBUG]   [5] ✅ Source : Kashmir Life
+2026-04-27 17:46:16,225 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGFaQzZfb0R2WW02YlFySXZfd1g
+2026-04-27 17:46:16,225 [DEBUG]   [5] ✅ Date   : 26-04-2026 16:52 UTC
+2026-04-27 17:46:16,225 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:46:16,225 [DEBUG]   [6] ✅ Title  : Sperry: Drip irrigation system doesn’t always lead to overwatered plants
+2026-04-27 17:46:16,226 [DEBUG]   [6] ✅ Source : Tyler Morning Telegraph
+2026-04-27 17:46:16,226 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVklzcHktQ0pnSTd1LUNsc09xeTV
+2026-04-27 17:46:16,226 [DEBUG]   [6] ✅ Date   : 27-04-2026 03:34 UTC
+2026-04-27 17:46:16,226 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:46:16,226 [DEBUG]   [7] ✅ Title  : Zaporizhzhia nuclear power plant worker killed in Ukraine drone attack, manageme
+2026-04-27 17:46:16,227 [DEBUG]   [7] ✅ Source : The Straits Times
+2026-04-27 17:46:16,227 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMixwFBVV95cUxQNktTWFpkdW81Y0FMZG5TVlYwalp
+2026-04-27 17:46:16,228 [DEBUG]   [7] ✅ Date   : 27-04-2026 09:52 UTC
+2026-04-27 17:46:16,228 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:46:16,229 [DEBUG]   [8] ✅ Title  : History of chilli peppers in China: from ornamental plants to ‘poor man’s spice’
+2026-04-27 17:46:16,232 [DEBUG]   [8] ✅ Source : South China Morning Post
+2026-04-27 17:46:16,232 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMi0gFBVV95cUxPanJDaEtwb1pQb2E2MjBtZG1LVUp
+2026-04-27 17:46:16,233 [DEBUG]   [8] ✅ Date   : 27-04-2026 10:00 UTC
+2026-04-27 17:46:16,237 [DEBUG]   [8] ✅ Added to results
+2026-04-27 17:46:16,238 [DEBUG]   [9] ✅ Title  : West Asia conflict: Iranian locals form human chains at power plants and bridges
+2026-04-27 17:46:16,239 [DEBUG]   [9] ✅ Source : MSN
+2026-04-27 17:46:16,239 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMiwwNBVV95cUxOVkdibVdrdDZZV0ZoWTBNejVvSUx
+2026-04-27 17:46:16,239 [DEBUG]   [9] ✅ Date   : 26-04-2026 21:28 UTC
+2026-04-27 17:46:16,239 [DEBUG]   [9] ⏩ Skipped (irrelevant): West Asia conflict: Iranian locals form human chains at powe
+2026-04-27 17:46:16,240 [DEBUG]   [10] ✅ Title  : Inch Plant Is One of the Easiest Houseplants to Grow—Here's How to Do It
+2026-04-27 17:46:16,240 [DEBUG]   [10] ✅ Source : AOL.com
+2026-04-27 17:46:16,240 [DEBUG]   [10] ✅ Link   : https://news.google.com/rss/articles/CBMihgFBVV95cUxQem5KOTVuVjVpQUkxZ3VIa3pUYnN
+2026-04-27 17:46:16,241 [DEBUG]   [10] ✅ Date   : 27-04-2026 00:23 UTC
+2026-04-27 17:46:16,241 [DEBUG]   [10] ✅ Added to results
+2026-04-27 17:46:16,241 [DEBUG]   [11] ✅ Title  : Heliotropic Carousel: A light-responsive indoor garden at RHS Chelsea 2026
+2026-04-27 17:46:16,242 [DEBUG]   [11] ✅ Source : The Dirt Horticulture News
+2026-04-27 17:46:16,242 [DEBUG]   [11] ✅ Link   : https://news.google.com/rss/articles/CBMimwFBVV95cUxNRFN3TUpBWEpfQ0xUMkt0UUhUaXh
+2026-04-27 17:46:16,242 [DEBUG]   [11] ✅ Date   : 27-04-2026 04:58 UTC
+2026-04-27 17:46:16,242 [DEBUG]   [11] ✅ Added to results
+2026-04-27 17:46:16,243 [DEBUG]   [12] ✅ Title  : Kennesaw woman turns healing hobby into business, finding purpose through Kokeda
+2026-04-27 17:46:16,243 [DEBUG]   [12] ✅ Source : CBS News
+2026-04-27 17:46:16,243 [DEBUG]   [12] ✅ Link   : https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX09jUkEyOGRuR0NzS19qaEFZeW9
+2026-04-27 17:46:16,243 [DEBUG]   [12] ✅ Date   : 27-04-2026 11:08 UTC
+2026-04-27 17:46:16,243 [DEBUG]   [12] ✅ Added to results
+2026-04-27 17:46:16,243 [DEBUG]   [13] ✅ Title  : Scientists Discover Plants “Scream” – We Just Couldn’t Hear Them Until Now
+2026-04-27 17:46:16,243 [DEBUG]   [13] ✅ Source : SciTechDaily
+2026-04-27 17:46:16,244 [DEBUG]   [13] ✅ Link   : https://news.google.com/rss/articles/CBMimwFBVV95cUxOVlJFamZkMU1PYlJjSkY2dlhEOFR
+2026-04-27 17:46:16,244 [DEBUG]   [13] ✅ Date   : 26-04-2026 19:22 UTC
+2026-04-27 17:46:16,244 [DEBUG]   [13] ✅ Added to results
+2026-04-27 17:46:16,244 [DEBUG]   [14] ✅ Title  : Chelsea news: Pedro Neto makes Benfica comparison amid Blues' poor form
+2026-04-27 17:46:16,244 [DEBUG]   [14] ✅ Source : Sports Mole
+2026-04-27 17:46:16,244 [DEBUG]   [14] ✅ Link   : https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1FndWstM00xQmVwdmpjQVItSjl
+2026-04-27 17:46:16,245 [DEBUG]   [14] ✅ Date   : 27-04-2026 09:45 UTC
+2026-04-27 17:46:16,245 [DEBUG]   [14] ✅ Added to results
+2026-04-27 17:46:16,246 [DEBUG]   [15] ✅ Title  : Department of Plant Pathology (DPP) Visits Fields at the Research Farm of Thakar
+2026-04-27 17:46:16,246 [DEBUG]   [15] ✅ Source : University of the Punjab
+2026-04-27 17:46:16,246 [DEBUG]   [15] ✅ Link   : https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPQ3ozUTExZVFadlNPaTZiR2lCeDA
+2026-04-27 17:46:16,247 [DEBUG]   [15] ✅ Date   : 26-04-2026 21:32 UTC
+2026-04-27 17:46:16,248 [DEBUG]   [15] ✅ Added to results
+2026-04-27 17:46:16,248 [INFO] ✅ Collected 14 valid articles for 'Plant Form'
+2026-04-27 17:46:18,251 [INFO] ─── Fetching news for: Coherus Biosciences ───
+2026-04-27 17:46:18,252 [INFO] 🔍 Fetching RSS for 'Coherus Biosciences': https://news.google.com/rss/search?q=Coherus+Biosciences+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:18,255 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:19,225 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Coherus+Biosciences+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:19,226 [DEBUG] ✅ HTTP 200 — RSS size: 7,892 chars
+2026-04-27 17:46:19,227 [INFO] 📰 Found 3 RSS items for 'Coherus Biosciences'
+2026-04-27 17:46:19,227 [DEBUG]   [1] ✅ Title  : NervGen appoints Keith Vendola as chief financial officer
+2026-04-27 17:46:19,227 [DEBUG]   [1] ✅ Source : Investing.com
+2026-04-27 17:46:19,227 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmdCQ2FmaVJOMzkta2FPc2dmWEl
+2026-04-27 17:46:19,227 [DEBUG]   [1] ✅ Date   : 27-04-2026 11:49 UTC
+2026-04-27 17:46:19,228 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:19,228 [DEBUG]   [2] ✅ Title  : NervGen Pharma Strengthens Leadership Team with Appointment of Keith Vendola as 
+2026-04-27 17:46:19,228 [DEBUG]   [2] ✅ Source : The Manila Times
+2026-04-27 17:46:19,228 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbk9xeFh4dXIwNEVZR0EwV0xrVHc
+2026-04-27 17:46:19,229 [DEBUG]   [2] ✅ Date   : 27-04-2026 11:33 UTC
+2026-04-27 17:46:19,229 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:46:19,229 [DEBUG]   [3] ✅ Title  : Sun-Organon buyout shows Indian Pharma's big hunger for overseas M&As — Here's a
+2026-04-27 17:46:19,229 [DEBUG]   [3] ✅ Source : Mint
+2026-04-27 17:46:19,229 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSVdvWWxrYnlQeVlUQVRwTnBEajh
+2026-04-27 17:46:19,230 [DEBUG]   [3] ✅ Date   : 27-04-2026 05:27 UTC
+2026-04-27 17:46:19,230 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:19,230 [INFO] ✅ Collected 3 valid articles for 'Coherus Biosciences'
+2026-04-27 17:46:21,232 [INFO] ─── Fetching news for: Viatris-Mylan ───
+2026-04-27 17:46:21,233 [INFO] 🔍 Fetching RSS for 'Viatris-Mylan': https://news.google.com/rss/search?q=Viatris-Mylan+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:21,236 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:22,146 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Viatris-Mylan+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:22,149 [DEBUG] ✅ HTTP 200 — RSS size: 1,138 chars
+2026-04-27 17:46:22,150 [INFO] 📰 Found 0 RSS items for 'Viatris-Mylan'
+2026-04-27 17:46:22,150 [WARNING] ⚠️  0 articles in RSS for 'Viatris-Mylan'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:24,153 [INFO] ─── Fetching news for: Pfizer ───
+2026-04-27 17:46:24,154 [INFO] 🔍 Fetching RSS for 'Pfizer': https://news.google.com/rss/search?q=Pfizer+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:24,156 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:24,912 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Pfizer+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:25,016 [DEBUG] ✅ HTTP 200 — RSS size: 87,998 chars
+2026-04-27 17:46:25,018 [INFO] 📰 Found 50 RSS items for 'Pfizer'
+2026-04-27 17:46:25,018 [DEBUG]   [1] ✅ Title  : Armata Pharmaceuticals adds Pfizer executive to board
+2026-04-27 17:46:25,019 [DEBUG]   [1] ✅ Source : Investing.com
+2026-04-27 17:46:25,019 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGZWZzZtRkZmNlBOWW5IaWdNN21
+2026-04-27 17:46:25,019 [DEBUG]   [1] ✅ Date   : 27-04-2026 11:25 UTC
+2026-04-27 17:46:25,020 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:25,020 [DEBUG]   [2] ✅ Title  : Pfizer and 3 Other Stocks in Focus After Goldman Sachs and Others Buy and Sell S
+2026-04-27 17:46:25,021 [DEBUG]   [2] ✅ Source : Trade Brains
+2026-04-27 17:46:25,021 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMirgFBVV95cUxPeWR1TXlJeXNDTkRqaFZwTzZQZ3B
+2026-04-27 17:46:25,022 [DEBUG]   [2] ✅ Date   : 27-04-2026 06:10 UTC
+2026-04-27 17:46:25,022 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:46:25,023 [DEBUG]   [3] ✅ Title  : Pfizer announces new candidate for lyme disease vaccine after phase III trial su
+2026-04-27 17:46:25,023 [DEBUG]   [3] ✅ Source : The Tartan
+2026-04-27 17:46:25,024 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMivAFBVV95cUxQczFEdklFUEFjNkhsVzNtZ21fckV
+2026-04-27 17:46:25,024 [DEBUG]   [3] ✅ Date   : 27-04-2026 12:00 UTC
+2026-04-27 17:46:25,025 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:25,025 [DEBUG]   [4] ✅ Title  : Pfizer leader tied to Paxlovid launch joins Armata board
+2026-04-27 17:46:25,025 [DEBUG]   [4] ✅ Source : Stock Titan
+2026-04-27 17:46:25,026 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1J3andxN0Y3alNVbFNDcWxUWW9
+2026-04-27 17:46:25,026 [DEBUG]   [4] ✅ Date   : 27-04-2026 11:00 UTC
+2026-04-27 17:46:25,027 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:46:25,027 [DEBUG]   [5] ✅ Title  : Jamjoom Pharma signs agreement to acquire pharmaceutical manufacturing facility 
+2026-04-27 17:46:25,027 [DEBUG]   [5] ✅ Source : ZAWYA
+2026-04-27 17:46:25,028 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMi_wFBVV95cUxPLVJwVjMxVDRPcUVPUjNhRHByeVp
+2026-04-27 17:46:25,029 [DEBUG]   [5] ✅ Date   : 27-04-2026 09:46 UTC
+2026-04-27 17:46:25,029 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:46:25,030 [DEBUG]   [6] ✅ Title  : Pfizer, Astellas win FDA priority review for Padcev in bladder cancer with Merck
+2026-04-27 17:46:25,030 [DEBUG]   [6] ✅ Source : MSN
+2026-04-27 17:46:25,031 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMiigNBVV95cUxPc3BaNjNvaWxTWGYtWGU0Z0Vkd3N
+2026-04-27 17:46:25,032 [DEBUG]   [6] ✅ Date   : 27-04-2026 07:30 UTC
+2026-04-27 17:46:25,033 [DEBUG]   [6] ⏩ Skipped (irrelevant): Pfizer, Astellas win FDA priority review for Padcev in bladd
+2026-04-27 17:46:25,034 [DEBUG]   [7] ✅ Title  : BMS–Pfizer expands Eliquis access through Cost Plus Drug setting $345 monthly pr
+2026-04-27 17:46:25,035 [DEBUG]   [7] ✅ Source : Indian Pharma Post
+2026-04-27 17:46:25,035 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMizgFBVV95cUxNOWtXVjRRTElleXg0TVFoZkd4N2I
+2026-04-27 17:46:25,036 [DEBUG]   [7] ✅ Date   : 27-04-2026 05:51 UTC
+2026-04-27 17:46:25,037 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:46:25,038 [DEBUG]   [8] ✅ Title  : FDA approves updated COVID vaccines with restrictions - ABC News
+2026-04-27 17:46:25,039 [DEBUG]   [8] ✅ Source : ABC News - Breaking News, Latest News and Videos
+2026-04-27 17:46:25,040 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMipAFBVV95cUxPWk9Tc0cwV2tCOUF4R1pMVjdYU2x
+2026-04-27 17:46:25,040 [DEBUG]   [8] ✅ Date   : 26-04-2026 23:28 UTC
+2026-04-27 17:46:25,041 [DEBUG]   [8] ✅ Added to results
+2026-04-27 17:46:25,041 [DEBUG]   [9] ✅ Title  : Armata Pharmaceuticals Adds Pfizer Executive to Board of Directors
+2026-04-27 17:46:25,042 [DEBUG]   [9] ✅ Source : TipRanks
+2026-04-27 17:46:25,043 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0tPUWpJdExhN1cwOHhuTlBqU2x
+2026-04-27 17:46:25,044 [DEBUG]   [9] ✅ Date   : 27-04-2026 11:31 UTC
+2026-04-27 17:46:25,045 [DEBUG]   [9] ✅ Added to results
+2026-04-27 17:46:25,045 [DEBUG]   [10] ✅ Title  : Pfizer AGM: Shareholders Reject Independent Chair Proposal as Bourla Touts 2025 
+2026-04-27 17:46:25,045 [DEBUG]   [10] ✅ Source : Yahoo Finance
+2026-04-27 17:46:25,046 [DEBUG]   [10] ✅ Link   : https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkxtZFVmUi1KZ085aXBkTS0tS0F
+2026-04-27 17:46:25,046 [DEBUG]   [10] ✅ Date   : 27-04-2026 05:04 UTC
+2026-04-27 17:46:25,046 [DEBUG]   [10] ✅ Added to results
+2026-04-27 17:46:25,047 [DEBUG]   [11] ✅ Title  : Should You Forget Pfizer and Buy This Pharma Stock Instead?
+2026-04-27 17:46:25,048 [DEBUG]   [11] ✅ Source : AOL.com
+2026-04-27 17:46:25,049 [DEBUG]   [11] ✅ Link   : https://news.google.com/rss/articles/CBMif0FVX3lxTE1PbGtUYk5EemhxcnRyWmRvOHo1TzU
+2026-04-27 17:46:25,050 [DEBUG]   [11] ✅ Date   : 27-04-2026 07:37 UTC
+2026-04-27 17:46:25,051 [DEBUG]   [11] ✅ Added to results
+2026-04-27 17:46:25,052 [DEBUG]   [12] ✅ Title  : Comparing the Pfizer and Moderna COVID-19 vaccines - ABC News
+2026-04-27 17:46:25,052 [DEBUG]   [12] ✅ Source : ABC News - Breaking News, Latest News and Videos
+2026-04-27 17:46:25,053 [DEBUG]   [12] ✅ Link   : https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3lzUU00S210NFh1bXRRb0hiMVF
+2026-04-27 17:46:25,053 [DEBUG]   [12] ✅ Date   : 26-04-2026 22:25 UTC
+2026-04-27 17:46:25,054 [DEBUG]   [12] ✅ Added to results
+2026-04-27 17:46:25,054 [DEBUG]   [13] ✅ Title  : Pfizer and Astellas secure FDA priority review for Padcev MIBC combo therapy
+2026-04-27 17:46:25,055 [DEBUG]   [13] ✅ Source : MSN
+2026-04-27 17:46:25,055 [DEBUG]   [13] ✅ Link   : https://news.google.com/rss/articles/CBMi-gJBVV95cUxPX3V4Mm8wVEZlZXM0SFY1YU9PMjV
+2026-04-27 17:46:25,056 [DEBUG]   [13] ✅ Date   : 27-04-2026 08:26 UTC
+2026-04-27 17:46:25,057 [DEBUG]   [13] ⏩ Skipped (irrelevant): Pfizer and Astellas secure FDA priority review for Padcev MI
+2026-04-27 17:46:25,058 [DEBUG]   [14] ✅ Title  : A Monthly Weight Loss Shot? Why Pfizer Could Topple Lilly's and Novo's GLP-1 Duo
+2026-04-27 17:46:25,058 [DEBUG]   [14] ✅ Source : AOL.com
+2026-04-27 17:46:25,058 [DEBUG]   [14] ✅ Link   : https://news.google.com/rss/articles/CBMifEFVX3lxTE5FNGVjc1hpVll0RE5HMno3R2NENER
+2026-04-27 17:46:25,059 [DEBUG]   [14] ✅ Date   : 27-04-2026 01:01 UTC
+2026-04-27 17:46:25,059 [DEBUG]   [14] ✅ Added to results
+2026-04-27 17:46:25,059 [DEBUG]   [15] ✅ Title  : NVAX stock rises overnight ahead of Q4 print with Pfizer tailwinds — analyst war
+2026-04-27 17:46:25,059 [DEBUG]   [15] ✅ Source : MSN
+2026-04-27 17:46:25,060 [DEBUG]   [15] ✅ Link   : https://news.google.com/rss/articles/CBMitgNBVV95cUxNT2VmN1RjaTBQNGx2dGYxclZicm9
+2026-04-27 17:46:25,060 [DEBUG]   [15] ✅ Date   : 27-04-2026 02:44 UTC
+2026-04-27 17:46:25,060 [DEBUG]   [15] ⏩ Skipped (irrelevant): NVAX stock rises overnight ahead of Q4 print with Pfizer tai
+2026-04-27 17:46:25,061 [INFO] ✅ Collected 12 valid articles for 'Pfizer'
+2026-04-27 17:46:27,062 [INFO] ─── Fetching news for: Biogen ───
+2026-04-27 17:46:27,064 [INFO] 🔍 Fetching RSS for 'Biogen': https://news.google.com/rss/search?q=Biogen+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:27,066 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:28,086 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Biogen+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:28,087 [DEBUG] ✅ HTTP 200 — RSS size: 17,091 chars
+2026-04-27 17:46:28,089 [INFO] 📰 Found 9 RSS items for 'Biogen'
+2026-04-27 17:46:28,089 [DEBUG]   [1] ✅ Title  : MHRA authorises Biogen’s higher-dose Spinraza for SMA treatment
+2026-04-27 17:46:28,090 [DEBUG]   [1] ✅ Source : PMLiVE
+2026-04-27 17:46:28,090 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMimgFBVV95cUxQN096NVdpV29FMXFXaVFZMjNPOVN
+2026-04-27 17:46:28,091 [DEBUG]   [1] ✅ Date   : 27-04-2026 09:40 UTC
+2026-04-27 17:46:28,091 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:28,092 [DEBUG]   [2] ✅ Title  : Apellis surges on $5.6B buyout deal with Biogen
+2026-04-27 17:46:28,093 [DEBUG]   [2] ✅ Source : MSN
+2026-04-27 17:46:28,093 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMiggNBVV95cUxNV2F2QURRSmJla2ltNTdzZ1U2c2t
+2026-04-27 17:46:28,094 [DEBUG]   [2] ✅ Date   : 27-04-2026 09:11 UTC
+2026-04-27 17:46:28,094 [DEBUG]   [2] ⏩ Skipped (irrelevant): Apellis surges on $5.6B buyout deal with Biogen
+2026-04-27 17:46:28,095 [DEBUG]   [3] ✅ Title  : Biogen Inc. (BIIB) Gets Upgraded by UBS on Upcoming Pipeline Catalysts
+2026-04-27 17:46:28,096 [DEBUG]   [3] ✅ Source : Insider Monkey
+2026-04-27 17:46:28,096 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbF9jUzg3RER2N3ZkV3RfNEZocEV
+2026-04-27 17:46:28,097 [DEBUG]   [3] ✅ Date   : 27-04-2026 06:16 UTC
+2026-04-27 17:46:28,098 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:28,098 [DEBUG]   [4] ✅ Title  : Wells Fargo Upgrades Biogen to Overweight: Does the Alzheimer’s Story Finally Ha
+2026-04-27 17:46:28,099 [DEBUG]   [4] ✅ Source : AOL.com
+2026-04-27 17:46:28,100 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2pKaVV4ZkEzd3FjZFZkdEFyNXN
+2026-04-27 17:46:28,101 [DEBUG]   [4] ✅ Date   : 26-04-2026 21:30 UTC
+2026-04-27 17:46:28,102 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:46:28,102 [DEBUG]   [5] ✅ Title  : APLS stock soars 140% today – here’s everything to know about its massive $5.6B 
+2026-04-27 17:46:28,103 [DEBUG]   [5] ✅ Source : MSN
+2026-04-27 17:46:28,103 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMitgNBVV95cUxPckxTbmVRR0dPdi02WUtNcWVFZ1B
+2026-04-27 17:46:28,104 [DEBUG]   [5] ✅ Date   : 27-04-2026 04:41 UTC
+2026-04-27 17:46:28,118 [DEBUG]   [5] ⏩ Skipped (irrelevant): APLS stock soars 140% today – here’s everything to know abou
+2026-04-27 17:46:28,119 [DEBUG]   [6] ✅ Title  : Why This Pharma Stock More Than Doubled Today
+2026-04-27 17:46:28,119 [DEBUG]   [6] ✅ Source : MSN
+2026-04-27 17:46:28,119 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMi6AJBVV95cUxNMEZMRGV2cFhLeDFQRDNXdmFTbUh
+2026-04-27 17:46:28,119 [DEBUG]   [6] ✅ Date   : 26-04-2026 21:56 UTC
+2026-04-27 17:46:28,119 [DEBUG]   [6] ⏩ Skipped (irrelevant): Why This Pharma Stock More Than Doubled Today
+2026-04-27 17:46:28,120 [DEBUG]   [7] ✅ Title  : Biogen to acquire Apellis for $5.6B to strengthen immunology portfolio
+2026-04-27 17:46:28,120 [DEBUG]   [7] ✅ Source : MSN
+2026-04-27 17:46:28,120 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMi8wJBVV95cUxNX1JSZDNTQ01XUTM1TEpOcU1vZ25
+2026-04-27 17:46:28,120 [DEBUG]   [7] ✅ Date   : 26-04-2026 12:22 UTC
+2026-04-27 17:46:28,120 [DEBUG]   [7] ⏩ Skipped (irrelevant): Biogen to acquire Apellis for $5.6B to strengthen immunology
+2026-04-27 17:46:28,120 [DEBUG]   [8] ✅ Title  : Biogen to acquire Apellis Pharmaceuticals for $5.6 billion
+2026-04-27 17:46:28,120 [DEBUG]   [8] ✅ Source : MSN
+2026-04-27 17:46:28,121 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMi4AJBVV95cUxQUGpkcmRBeFJYLVlyZlptZm1wWVp
+2026-04-27 17:46:28,121 [DEBUG]   [8] ✅ Date   : 26-04-2026 12:56 UTC
+2026-04-27 17:46:28,122 [DEBUG]   [8] ⏩ Skipped (irrelevant): Biogen to acquire Apellis Pharmaceuticals for $5.6 billion
+2026-04-27 17:46:28,122 [DEBUG]   [9] ✅ Title  : Biogen earnings preview: What to expect
+2026-04-27 17:46:28,123 [DEBUG]   [9] ✅ Source : MSN
+2026-04-27 17:46:28,123 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWdxeGYwcTNmalBpS2RBdkphVXd
+2026-04-27 17:46:28,124 [DEBUG]   [9] ✅ Date   : 27-04-2026 03:13 UTC
+2026-04-27 17:46:28,125 [DEBUG]   [9] ⏩ Skipped (irrelevant): Biogen earnings preview: What to expect
+2026-04-27 17:46:28,126 [INFO] ✅ Collected 3 valid articles for 'Biogen'
+2026-04-27 17:46:30,131 [INFO] ─── Fetching news for: Libbs Farmaceutica ───
+2026-04-27 17:46:30,132 [INFO] 🔍 Fetching RSS for 'Libbs Farmaceutica': https://news.google.com/rss/search?q=Libbs+Farmaceutica+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:30,135 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:31,056 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Libbs+Farmaceutica+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:31,057 [DEBUG] ✅ HTTP 200 — RSS size: 1,148 chars
+2026-04-27 17:46:31,058 [INFO] 📰 Found 0 RSS items for 'Libbs Farmaceutica'
+2026-04-27 17:46:31,058 [WARNING] ⚠️  0 articles in RSS for 'Libbs Farmaceutica'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:33,060 [INFO] ─── Fetching news for: Blau Farmaceutica ───
+2026-04-27 17:46:33,061 [INFO] 🔍 Fetching RSS for 'Blau Farmaceutica': https://news.google.com/rss/search?q=Blau+Farmaceutica+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:33,064 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:34,026 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Blau+Farmaceutica+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:34,026 [DEBUG] ✅ HTTP 200 — RSS size: 1,146 chars
+2026-04-27 17:46:34,026 [INFO] 📰 Found 0 RSS items for 'Blau Farmaceutica'
+2026-04-27 17:46:34,026 [WARNING] ⚠️  0 articles in RSS for 'Blau Farmaceutica'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:36,028 [INFO] ─── Fetching news for: Cristália ───
+2026-04-27 17:46:36,030 [INFO] 🔍 Fetching RSS for 'Cristália': https://news.google.com/rss/search?q=Crist%C3%A1lia+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:36,032 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:37,006 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Crist%C3%A1lia+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:37,008 [DEBUG] ✅ HTTP 200 — RSS size: 1,135 chars
+2026-04-27 17:46:37,009 [INFO] 📰 Found 0 RSS items for 'Cristália'
+2026-04-27 17:46:37,009 [WARNING] ⚠️  0 articles in RSS for 'Cristália'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:39,014 [INFO] ─── Fetching news for: Farmacore ───
+2026-04-27 17:46:39,015 [INFO] 🔍 Fetching RSS for 'Farmacore': https://news.google.com/rss/search?q=Farmacore+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:39,017 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:39,656 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Farmacore+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:39,657 [DEBUG] ✅ HTTP 200 — RSS size: 1,130 chars
+2026-04-27 17:46:39,658 [INFO] 📰 Found 0 RSS items for 'Farmacore'
+2026-04-27 17:46:39,658 [WARNING] ⚠️  0 articles in RSS for 'Farmacore'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:41,661 [INFO] ─── Fetching news for: Bionovis ───
+2026-04-27 17:46:41,664 [INFO] 🔍 Fetching RSS for 'Bionovis': https://news.google.com/rss/search?q=Bionovis+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:41,667 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:42,320 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Bionovis+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:42,321 [DEBUG] ✅ HTTP 200 — RSS size: 1,128 chars
+2026-04-27 17:46:42,321 [INFO] 📰 Found 0 RSS items for 'Bionovis'
+2026-04-27 17:46:42,322 [WARNING] ⚠️  0 articles in RSS for 'Bionovis'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:44,324 [INFO] ─── Fetching news for: Biosidus ───
+2026-04-27 17:46:44,325 [INFO] 🔍 Fetching RSS for 'Biosidus': https://news.google.com/rss/search?q=Biosidus+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:44,326 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:45,614 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Biosidus+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:45,618 [DEBUG] ✅ HTTP 200 — RSS size: 1,128 chars
+2026-04-27 17:46:45,619 [INFO] 📰 Found 0 RSS items for 'Biosidus'
+2026-04-27 17:46:45,620 [WARNING] ⚠️  0 articles in RSS for 'Biosidus'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:47,623 [INFO] ─── Fetching news for: Dr. Reddy's ───
+2026-04-27 17:46:47,624 [INFO] 🔍 Fetching RSS for 'Dr. Reddy's': https://news.google.com/rss/search?q=Dr.+Reddy%27s+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:47,626 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:48,361 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Dr.+Reddy%27s+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:48,363 [DEBUG] ✅ HTTP 200 — RSS size: 30,857 chars
+2026-04-27 17:46:48,364 [INFO] 📰 Found 14 RSS items for 'Dr. Reddy's'
+2026-04-27 17:46:48,364 [DEBUG]   [1] ✅ Title  : Sun Pharma, Dr Reddy's Labs, Onesource: Nifty Pharma rallies 3%; details
+2026-04-27 17:46:48,364 [DEBUG]   [1] ✅ Source : Business Standard
+2026-04-27 17:46:48,365 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQzNvcHpPZm1Fei1RYllNRzR3WnR
+2026-04-27 17:46:48,365 [DEBUG]   [1] ✅ Date   : 27-04-2026 05:39 UTC
+2026-04-27 17:46:48,365 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:48,365 [DEBUG]   [2] ✅ Title  : Buy, sell or hold: Citi's latest view on Dr Reddy's Laboratories ahead of Q4 res
+2026-04-27 17:46:48,366 [DEBUG]   [2] ✅ Source : MSN
+2026-04-27 17:46:48,366 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMisgNBVV95cUxQU2EwMC1iUU5FblVRU1dubFBTbk5
+2026-04-27 17:46:48,366 [DEBUG]   [2] ✅ Date   : 27-04-2026 03:00 UTC
+2026-04-27 17:46:48,366 [DEBUG]   [2] ⏩ Skipped (irrelevant): Buy, sell or hold: Citi's latest view on Dr Reddy's Laborato
+2026-04-27 17:46:48,367 [DEBUG]   [3] ✅ Title  : Dr Reddy's Laboratories - Ultratech Cement among 5 F&O stocks with a sharp rise 
+2026-04-27 17:46:48,367 [DEBUG]   [3] ✅ Source : The Economic Times
+2026-04-27 17:46:48,367 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiggJBVV95cUxQbVp3cTdFbkU3dnBxQTZOR1FKbkt
+2026-04-27 17:46:48,367 [DEBUG]   [3] ✅ Date   : 27-04-2026 03:44 UTC
+2026-04-27 17:46:48,368 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:48,369 [DEBUG]   [4] ✅ Title  : Indian Immunologicals clocks all-time high revenue of Rs 1,586 crore in FY26
+2026-04-27 17:46:48,369 [DEBUG]   [4] ✅ Source : Indian Pharma Post
+2026-04-27 17:46:48,370 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQTZyV2pJN3ZVMFBOUXBEN0I4czV
+2026-04-27 17:46:48,370 [DEBUG]   [4] ✅ Date   : 27-04-2026 01:26 UTC
+2026-04-27 17:46:48,371 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:46:48,373 [DEBUG]   [5] ✅ Title  : Sun Pharma to buy Organon for $11.75 bn, enter top 25 global pharma list
+2026-04-27 17:46:48,373 [DEBUG]   [5] ✅ Source : Business Standard
+2026-04-27 17:46:48,375 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcW9WUUt4N2xWaXYxb05jOEpwaTl
+2026-04-27 17:46:48,376 [DEBUG]   [5] ✅ Date   : 27-04-2026 06:53 UTC
+2026-04-27 17:46:48,377 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:46:48,378 [DEBUG]   [6] ✅ Title  : Dr Reddy's jumps nearly 7% as Sensex falls: Why is the pharma stock rising?
+2026-04-27 17:46:48,378 [DEBUG]   [6] ✅ Source : MSN
+2026-04-27 17:46:48,378 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMi9gJBVV95cUxOR2NLbWZkYkRrV1dQd3F1UlR1Vzl
+2026-04-27 17:46:48,378 [DEBUG]   [6] ✅ Date   : 27-04-2026 00:33 UTC
+2026-04-27 17:46:48,379 [DEBUG]   [6] ⏩ Skipped (irrelevant): Dr Reddy's jumps nearly 7% as Sensex falls: Why is the pharm
+2026-04-27 17:46:48,380 [DEBUG]   [7] ✅ Title  : Brazil rejects Dr Reddy's, Cipla GLP-1 generics on technical grounds
+2026-04-27 17:46:48,380 [DEBUG]   [7] ✅ Source : Business Standard
+2026-04-27 17:46:48,381 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNlhzb2U3eGJUNFpsTkFKcjdBUEJ
+2026-04-27 17:46:48,382 [DEBUG]   [7] ✅ Date   : 26-04-2026 17:28 UTC
+2026-04-27 17:46:48,385 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:46:48,385 [DEBUG]   [8] ✅ Title  : From Dr. Reddy's to Sun Pharma — which Indian players will make the most out of 
+2026-04-27 17:46:48,385 [DEBUG]   [8] ✅ Source : MSN
+2026-04-27 17:46:48,386 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMilwNBVV95cUxQVnlfVlU0S01UUHF1c1VfZFhhb0F
+2026-04-27 17:46:48,387 [DEBUG]   [8] ✅ Date   : 27-04-2026 01:52 UTC
+2026-04-27 17:46:48,387 [DEBUG]   [8] ⏩ Skipped (irrelevant): From Dr. Reddy's to Sun Pharma — which Indian players will m
+2026-04-27 17:46:48,388 [DEBUG]   [9] ✅ Title  : Sun Pharma, Dr Reddy's in focus — brokerages pick GLP-1 pharma winners and FMCG 
+2026-04-27 17:46:48,388 [DEBUG]   [9] ✅ Source : MSN
+2026-04-27 17:46:48,388 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMikwJBVV95cUxNOF8yVlpNWjN1eHNsUDJKWldDQV9
+2026-04-27 17:46:48,388 [DEBUG]   [9] ✅ Date   : 26-04-2026 22:51 UTC
+2026-04-27 17:46:48,389 [DEBUG]   [9] ⏩ Skipped (irrelevant): Sun Pharma, Dr Reddy's in focus — brokerages pick GLP-1 phar
+2026-04-27 17:46:48,390 [DEBUG]   [10] ✅ Title  : Semaglutide generics: Dr Reddy's, Sun, Alkem set to be early winners in $500 mil
+2026-04-27 17:46:48,390 [DEBUG]   [10] ✅ Source : MSN
+2026-04-27 17:46:48,390 [DEBUG]   [10] ✅ Link   : https://news.google.com/rss/articles/CBMikgNBVV95cUxQRlk5a3Y2R2tHaXhkVmk1R2UxZXl
+2026-04-27 17:46:48,391 [DEBUG]   [10] ✅ Date   : 26-04-2026 19:06 UTC
+2026-04-27 17:46:48,391 [DEBUG]   [10] ⏩ Skipped (irrelevant): Semaglutide generics: Dr Reddy's, Sun, Alkem set to be early
+2026-04-27 17:46:48,391 [DEBUG]   [11] ✅ Title  : Dr Reddy's share price: Citi trims target after setback in semaglutide generic
+2026-04-27 17:46:48,392 [DEBUG]   [11] ✅ Source : MSN
+2026-04-27 17:46:48,392 [DEBUG]   [11] ✅ Link   : https://news.google.com/rss/articles/CBMi-wJBVV95cUxQUUxHd1BOYXJ5amQ0SV9BLWdYNU1
+2026-04-27 17:46:48,392 [DEBUG]   [11] ✅ Date   : 26-04-2026 23:16 UTC
+2026-04-27 17:46:48,393 [DEBUG]   [11] ⏩ Skipped (irrelevant): Dr Reddy's share price: Citi trims target after setback in s
+2026-04-27 17:46:48,393 [DEBUG]   [12] ✅ Title  : Dr Reddy's share price: Healthcare stock target cut by Morgan Stanley - Here's w
+2026-04-27 17:46:48,393 [DEBUG]   [12] ✅ Source : MSN
+2026-04-27 17:46:48,394 [DEBUG]   [12] ✅ Link   : https://news.google.com/rss/articles/CBMi2gFBVV95cUxPblFfQWlZT2t3aUVtRzZtV1I4NVB
+2026-04-27 17:46:48,394 [DEBUG]   [12] ✅ Date   : 26-04-2026 22:29 UTC
+2026-04-27 17:46:48,395 [DEBUG]   [12] ⏩ Skipped (irrelevant): Dr Reddy's share price: Healthcare stock target cut by Morga
+2026-04-27 17:46:48,396 [DEBUG]   [13] ✅ Title  : Natco Pharma fires first shot in weight-loss drug price war; generic semaglutide
+2026-04-27 17:46:48,396 [DEBUG]   [13] ✅ Source : MSN
+2026-04-27 17:46:48,397 [DEBUG]   [13] ✅ Link   : https://news.google.com/rss/articles/CBMiwwNBVV95cUxNSDdaT2VjNTlaZ0JTdF9FQ09rdzI
+2026-04-27 17:46:48,398 [DEBUG]   [13] ✅ Date   : 27-04-2026 03:33 UTC
+2026-04-27 17:46:48,398 [DEBUG]   [13] ⏩ Skipped (irrelevant): Natco Pharma fires first shot in weight-loss drug price war;
+2026-04-27 17:46:48,399 [DEBUG]   [14] ✅ Title  : Sensex gains 428 pts; media shares advance
+2026-04-27 17:46:48,399 [DEBUG]   [14] ✅ Source : Business Standard
+2026-04-27 17:46:48,400 [DEBUG]   [14] ✅ Link   : https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmJ4MFpzRnRMYW5tMU95WDFyYTR
+2026-04-27 17:46:48,400 [DEBUG]   [14] ✅ Date   : 27-04-2026 06:20 UTC
+2026-04-27 17:46:48,401 [DEBUG]   [14] ✅ Added to results
+2026-04-27 17:46:48,401 [INFO] ✅ Collected 6 valid articles for 'Dr. Reddy's'
+2026-04-27 17:46:50,404 [INFO] ─── Fetching news for: Intas ───
+2026-04-27 17:46:50,404 [INFO] 🔍 Fetching RSS for 'Intas': https://news.google.com/rss/search?q=Intas+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:50,407 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:51,253 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Intas+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:51,256 [DEBUG] ✅ HTTP 200 — RSS size: 1,122 chars
+2026-04-27 17:46:51,257 [INFO] 📰 Found 0 RSS items for 'Intas'
+2026-04-27 17:46:51,257 [WARNING] ⚠️  0 articles in RSS for 'Intas'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:53,259 [INFO] ─── Fetching news for: Biocon ───
+2026-04-27 17:46:53,260 [INFO] 🔍 Fetching RSS for 'Biocon': https://news.google.com/rss/search?q=Biocon+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:53,265 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:54,915 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Biocon+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:54,916 [DEBUG] ✅ HTTP 200 — RSS size: 1,124 chars
+2026-04-27 17:46:54,918 [INFO] 📰 Found 0 RSS items for 'Biocon'
+2026-04-27 17:46:54,918 [WARNING] ⚠️  0 articles in RSS for 'Biocon'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:46:56,921 [INFO] ─── Fetching news for: Aurobindo Pharma ───
+2026-04-27 17:46:56,922 [INFO] 🔍 Fetching RSS for 'Aurobindo Pharma': https://news.google.com/rss/search?q=Aurobindo+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:56,924 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:46:57,576 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Aurobindo+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:46:57,577 [DEBUG] ✅ HTTP 200 — RSS size: 20,197 chars
+2026-04-27 17:46:57,578 [INFO] 📰 Found 9 RSS items for 'Aurobindo Pharma'
+2026-04-27 17:46:57,579 [DEBUG]   [1] ✅ Title  : Aurobindo Pharma's Rs 800 cr buyback closes this week: Should you tender shares?
+2026-04-27 17:46:57,579 [DEBUG]   [1] ✅ Source : The Economic Times
+2026-04-27 17:46:57,579 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZm4wTHhTN0dyRmxKQ3Q1Rzk2dW9
+2026-04-27 17:46:57,579 [DEBUG]   [1] ✅ Date   : 27-04-2026 04:39 UTC
+2026-04-27 17:46:57,580 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:46:57,580 [DEBUG]   [2] ✅ Title  : Bharti Airtel, ITC, Aurobindo Pharma: How to trade these buzzing stocks
+2026-04-27 17:46:57,580 [DEBUG]   [2] ✅ Source : MSN
+2026-04-27 17:46:57,580 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMi9AJBVV95cUxPTDNXY1dYVmJNTXBLcFhlZ0xfcnQ
+2026-04-27 17:46:57,580 [DEBUG]   [2] ✅ Date   : 27-04-2026 01:11 UTC
+2026-04-27 17:46:57,580 [DEBUG]   [2] ⏩ Skipped (irrelevant): Bharti Airtel, ITC, Aurobindo Pharma: How to trade these buz
+2026-04-27 17:46:57,581 [DEBUG]   [3] ✅ Title  : Aurobindo Pharma announces schedule, record date for its Rs 800 crore share buyb
+2026-04-27 17:46:57,581 [DEBUG]   [3] ✅ Source : India IPO
+2026-04-27 17:46:57,581 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2xxZ2Z6Z0xtTW0tdlR6U2pKcGt
+2026-04-27 17:46:57,581 [DEBUG]   [3] ✅ Date   : 27-04-2026 03:48 UTC
+2026-04-27 17:46:57,581 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:46:57,581 [DEBUG]   [4] ✅ Title  : GRSE, BEL, Infosys, Lupin, Aurobindo Pharma shares: Expert view & key levels to 
+2026-04-27 17:46:57,582 [DEBUG]   [4] ✅ Source : MSN
+2026-04-27 17:46:57,582 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMigANBVV95cUxQSjFZcVgzRkJHWG51enliTHhjNFJ
+2026-04-27 17:46:57,582 [DEBUG]   [4] ✅ Date   : 27-04-2026 00:47 UTC
+2026-04-27 17:46:57,582 [DEBUG]   [4] ⏩ Skipped (irrelevant): GRSE, BEL, Infosys, Lupin, Aurobindo Pharma shares: Expert v
+2026-04-27 17:46:57,583 [DEBUG]   [5] ✅ Title  : Stocks to watch today, April 22: HCLTech, Persistent Systems, Reliance Power, Au
+2026-04-27 17:46:57,583 [DEBUG]   [5] ✅ Source : MSN
+2026-04-27 17:46:57,583 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMi9AFBVV95cUxObFVzalN3d1NMZDFuY051Rm82bV8
+2026-04-27 17:46:57,584 [DEBUG]   [5] ✅ Date   : 27-04-2026 03:53 UTC
+2026-04-27 17:46:57,584 [DEBUG]   [5] ⏩ Skipped (irrelevant): Stocks to watch today, April 22: HCLTech, Persistent Systems
+2026-04-27 17:46:57,585 [DEBUG]   [6] ✅ Title  : Aurobindo Pharma announces share buyback; record date on April 17 - check price,
+2026-04-27 17:46:57,585 [DEBUG]   [6] ✅ Source : MSN
+2026-04-27 17:46:57,586 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMi_AJBVV95cUxNZkpvTFNQaEdJYUtpdmVMSkpNV2Z
+2026-04-27 17:46:57,587 [DEBUG]   [6] ✅ Date   : 26-04-2026 21:41 UTC
+2026-04-27 17:46:57,587 [DEBUG]   [6] ⏩ Skipped (irrelevant): Aurobindo Pharma announces share buyback; record date on Apr
+2026-04-27 17:46:57,588 [DEBUG]   [7] ✅ Title  : Sun Pharma to acquire Organon in $11.75 billion all-cash deal – Expects cash flo
+2026-04-27 17:46:57,589 [DEBUG]   [7] ✅ Source : financialexpress.com
+2026-04-27 17:46:57,590 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMi8gFBVV95cUxNM3psa1gwb3FWM2ZwRl9EbnJVSlh
+2026-04-27 17:46:57,590 [DEBUG]   [7] ✅ Date   : 27-04-2026 03:49 UTC
+2026-04-27 17:46:57,590 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:46:57,590 [DEBUG]   [8] ✅ Title  : Sun Pharma shares jump over 9% after firm announces $12 billion Organon acquisit
+2026-04-27 17:46:57,591 [DEBUG]   [8] ✅ Source : The Economic Times
+2026-04-27 17:46:57,591 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc0FsX3Zub055R0RfQVBDbWVHdFN
+2026-04-27 17:46:57,591 [DEBUG]   [8] ✅ Date   : 27-04-2026 03:35 UTC
+2026-04-27 17:46:57,591 [DEBUG]   [8] ✅ Added to results
+2026-04-27 17:46:57,591 [DEBUG]   [9] ✅ Title  : Aurobindo arm CuraTeQ Biologics reports positive phase 3 results for omalizumab 
+2026-04-27 17:46:57,591 [DEBUG]   [9] ✅ Source : MSN
+2026-04-27 17:46:57,591 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMiiwNBVV95cUxQQmZmQlROY3kzdnZDSVJpYko1UkR
+2026-04-27 17:46:57,591 [DEBUG]   [9] ✅ Date   : 26-04-2026 13:11 UTC
+2026-04-27 17:46:57,591 [DEBUG]   [9] ⏩ Skipped (irrelevant): Aurobindo arm CuraTeQ Biologics reports positive phase 3 res
+2026-04-27 17:46:57,591 [INFO] ✅ Collected 4 valid articles for 'Aurobindo Pharma'
+2026-04-27 17:46:59,593 [INFO] ─── Fetching news for: Zydus Biotech ───
+2026-04-27 17:46:59,594 [INFO] 🔍 Fetching RSS for 'Zydus Biotech': https://news.google.com/rss/search?q=Zydus+Biotech+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:46:59,597 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:00,548 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Zydus+Biotech+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:00,549 [DEBUG] ✅ HTTP 200 — RSS size: 9,605 chars
+2026-04-27 17:47:00,549 [INFO] 📰 Found 4 RSS items for 'Zydus Biotech'
+2026-04-27 17:47:00,550 [DEBUG]   [1] ✅ Title  : Sun Pharma's $11.75B Deal, Zydus Drug Mark India Pharma's Global Push
+2026-04-27 17:47:00,550 [DEBUG]   [1] ✅ Source : Whalesbook
+2026-04-27 17:47:00,551 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMWdrTnhaMVdkZjFpNlpldy0ycEk
+2026-04-27 17:47:00,551 [DEBUG]   [1] ✅ Date   : 27-04-2026 02:33 UTC
+2026-04-27 17:47:00,552 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:47:00,552 [DEBUG]   [2] ✅ Title  : 3 Undervalued Pharma Stocks to Add to Your 2026 Watchlist
+2026-04-27 17:47:00,552 [DEBUG]   [2] ✅ Source : financialexpress.com
+2026-04-27 17:47:00,553 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTZ4cW9tWTh0eWlKV3Jyd3pISHU
+2026-04-27 17:47:00,553 [DEBUG]   [2] ✅ Date   : 27-04-2026 09:22 UTC
+2026-04-27 17:47:00,553 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:47:00,553 [DEBUG]   [3] ✅ Title  : Zydus receives approval to conduct Phase III trials of Zintrodiazine for malaria
+2026-04-27 17:47:00,553 [DEBUG]   [3] ✅ Source : Express Pharma
+2026-04-27 17:47:00,554 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYlZLMG56REZVb2N3VHlnYk1nV2x
+2026-04-27 17:47:00,554 [DEBUG]   [3] ✅ Date   : 27-04-2026 08:30 UTC
+2026-04-27 17:47:00,555 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:47:00,556 [DEBUG]   [4] ✅ Title  : Zydus receives DCGI approval to initiate Phase III trials of novel anti-malarial
+2026-04-27 17:47:00,557 [DEBUG]   [4] ✅ Source : Indian Pharma Post
+2026-04-27 17:47:00,557 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWldHNl9QSHBUME1BdFV2V2Z6QTR
+2026-04-27 17:47:00,557 [DEBUG]   [4] ✅ Date   : 27-04-2026 05:56 UTC
+2026-04-27 17:47:00,557 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:47:00,560 [INFO] ✅ Collected 4 valid articles for 'Zydus Biotech'
+2026-04-27 17:47:02,563 [INFO] ─── Fetching news for: Hetero Biopharma ───
+2026-04-27 17:47:02,565 [INFO] 🔍 Fetching RSS for 'Hetero Biopharma': https://news.google.com/rss/search?q=Hetero+Biopharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:02,569 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:03,111 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Hetero+Biopharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:03,114 [DEBUG] ✅ HTTP 200 — RSS size: 1,144 chars
+2026-04-27 17:47:03,114 [INFO] 📰 Found 0 RSS items for 'Hetero Biopharma'
+2026-04-27 17:47:03,115 [WARNING] ⚠️  0 articles in RSS for 'Hetero Biopharma'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:05,117 [INFO] ─── Fetching news for: Shilpa Biologicals ───
+2026-04-27 17:47:05,118 [INFO] 🔍 Fetching RSS for 'Shilpa Biologicals': https://news.google.com/rss/search?q=Shilpa+Biologicals+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:05,121 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:06,077 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Shilpa+Biologicals+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:06,078 [DEBUG] ✅ HTTP 200 — RSS size: 1,148 chars
+2026-04-27 17:47:06,078 [INFO] 📰 Found 0 RSS items for 'Shilpa Biologicals'
+2026-04-27 17:47:06,079 [WARNING] ⚠️  0 articles in RSS for 'Shilpa Biologicals'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:08,081 [INFO] ─── Fetching news for: Stelis ───
+2026-04-27 17:47:08,082 [INFO] 🔍 Fetching RSS for 'Stelis': https://news.google.com/rss/search?q=Stelis+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:08,085 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:09,968 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Stelis+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:09,969 [DEBUG] ✅ HTTP 200 — RSS size: 1,124 chars
+2026-04-27 17:47:09,970 [INFO] 📰 Found 0 RSS items for 'Stelis'
+2026-04-27 17:47:09,970 [WARNING] ⚠️  0 articles in RSS for 'Stelis'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:11,972 [INFO] ─── Fetching news for: Samsung ───
+2026-04-27 17:47:11,973 [INFO] 🔍 Fetching RSS for 'Samsung': https://news.google.com/rss/search?q=Samsung+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:11,975 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:13,244 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Samsung+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:13,287 [DEBUG] ✅ HTTP 200 — RSS size: 160,807 chars
+2026-04-27 17:47:13,290 [INFO] 📰 Found 100 RSS items for 'Samsung'
+2026-04-27 17:47:13,290 [DEBUG]   [1] ✅ Title  : Samsung Wallet’s New ‘Trips’ Feature Enables Seamless Journeys for Global Travel
+2026-04-27 17:47:13,291 [DEBUG]   [1] ✅ Source : samsung.com
+2026-04-27 17:47:13,291 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1VvWXRKeVpfcGp2M1daLXl2eFl
+2026-04-27 17:47:13,291 [DEBUG]   [1] ✅ Date   : 26-04-2026 23:00 UTC
+2026-04-27 17:47:13,292 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:47:13,292 [DEBUG]   [2] ✅ Title  : Samsung Galaxy S25 Ultra gets massive Rs 29,000 discount: Where to buy
+2026-04-27 17:47:13,293 [DEBUG]   [2] ✅ Source : India Today
+2026-04-27 17:47:13,293 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVWVBdjl1VUU4dVNWZzdBd0pvYVJ
+2026-04-27 17:47:13,293 [DEBUG]   [2] ✅ Date   : 27-04-2026 11:30 UTC
+2026-04-27 17:47:13,294 [DEBUG]   [2] ⏩ Skipped (irrelevant): Samsung Galaxy S25 Ultra gets massive Rs 29,000 discount: Wh
+2026-04-27 17:47:13,294 [DEBUG]   [3] ✅ Title  : Samsung Strike Threat Explained: How It Could Disrupt Global Chip Supply
+2026-04-27 17:47:13,295 [DEBUG]   [3] ✅ Source : Open Magazine
+2026-04-27 17:47:13,295 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWVOaFpHbGVYMWlDWlZFeFZVWFJ
+2026-04-27 17:47:13,296 [DEBUG]   [3] ✅ Date   : 27-04-2026 11:38 UTC
+2026-04-27 17:47:13,297 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:47:13,298 [DEBUG]   [4] ✅ Title  : Samsung smartphone business may post first-ever loss in 2026
+2026-04-27 17:47:13,299 [DEBUG]   [4] ✅ Source : Communications Today
+2026-04-27 17:47:13,300 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUQzUm5Zb3Q2M29rdlVEQVNkWWM
+2026-04-27 17:47:13,300 [DEBUG]   [4] ✅ Date   : 27-04-2026 10:35 UTC
+2026-04-27 17:47:13,301 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:47:13,302 [DEBUG]   [5] ✅ Title  : Samsung Finance+ offers announced: Easy EMI plans from Rs 33 per day, Rs 1,000 c
+2026-04-27 17:47:13,303 [DEBUG]   [5] ✅ Source : The Times of India
+2026-04-27 17:47:13,304 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMiogJBVV95cUxQaFRpX0JkenVfUXU1NjVRQlp6S1I
+2026-04-27 17:47:13,305 [DEBUG]   [5] ✅ Date   : 27-04-2026 07:21 UTC
+2026-04-27 17:47:13,306 [DEBUG]   [5] ⏩ Skipped (irrelevant): Samsung Finance+ offers announced: Easy EMI plans from Rs 33
+2026-04-27 17:47:13,306 [DEBUG]   [6] ✅ Title  : Samsung Galaxy Z Fold 8, Z Flip 8 and Z Wide Fold Dummy Units Hint at Design, Wi
+2026-04-27 17:47:13,306 [DEBUG]   [6] ✅ Source : Gadgets 360
+2026-04-27 17:47:13,307 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3FUb2JxNTlDYWpFbUlkdUlBVlA
+2026-04-27 17:47:13,307 [DEBUG]   [6] ✅ Date   : 27-04-2026 10:54 UTC
+2026-04-27 17:47:13,307 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:47:13,308 [DEBUG]   [7] ✅ Title  : Samsung seeks post-HBM lead as CXL race heats up
+2026-04-27 17:47:13,308 [DEBUG]   [7] ✅ Source : KED Global
+2026-04-27 17:47:13,308 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMickFVX3lxTFBReHVGQktGVW83aUkzU3BBeHhlYjJ
+2026-04-27 17:47:13,308 [DEBUG]   [7] ✅ Date   : 27-04-2026 11:27 UTC
+2026-04-27 17:47:13,309 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:47:13,309 [DEBUG]   [8] ✅ Title  : Galaxy S23 gets second One UI 8.5 beta update with bug fixes
+2026-04-27 17:47:13,309 [DEBUG]   [8] ✅ Source : SamMobile
+2026-04-27 17:47:13,309 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMijwFBVV95cUxNUnI1UnZnTDA0cVYtbU02aXR6N2Q
+2026-04-27 17:47:13,309 [DEBUG]   [8] ✅ Date   : 27-04-2026 06:48 UTC
+2026-04-27 17:47:13,310 [DEBUG]   [8] ✅ Added to results
+2026-04-27 17:47:13,311 [DEBUG]   [9] ✅ Title  : Samsung Galaxy Book 6 Pro Review: Balances portability, productivity and display
+2026-04-27 17:47:13,311 [DEBUG]   [9] ✅ Source : The Hindu
+2026-04-27 17:47:13,311 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMi7AFBVV95cUxNenNKNFhvM0hma2tycGdsLTVWZGp
+2026-04-27 17:47:13,312 [DEBUG]   [9] ✅ Date   : 27-04-2026 09:00 UTC
+2026-04-27 17:47:13,313 [DEBUG]   [9] ✅ Added to results
+2026-04-27 17:47:13,313 [DEBUG]   [10] ✅ Title  : Samsung flags possible losses in phone business on rising memory costs
+2026-04-27 17:47:13,313 [DEBUG]   [10] ✅ Source : Business Standard
+2026-04-27 17:47:13,313 [DEBUG]   [10] ✅ Link   : https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEVfLU5MTDJXa0ctU2licjFLUmZ
+2026-04-27 17:47:13,313 [DEBUG]   [10] ✅ Date   : 27-04-2026 06:37 UTC
+2026-04-27 17:47:13,313 [DEBUG]   [10] ✅ Added to results
+2026-04-27 17:47:13,313 [DEBUG]   [11] ✅ Title  : OpenAI plans AI agent-based smartphone to challenge Apple and Samsung
+2026-04-27 17:47:13,314 [DEBUG]   [11] ✅ Source : Storyboard18
+2026-04-27 17:47:13,314 [DEBUG]   [11] ✅ Link   : https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1JyU0xrdks4NzVuZXpVUDBOOGd
+2026-04-27 17:47:13,314 [DEBUG]   [11] ✅ Date   : 27-04-2026 08:03 UTC
+2026-04-27 17:47:13,314 [DEBUG]   [11] ✅ Added to results
+2026-04-27 17:47:13,315 [DEBUG]   [12] ✅ Title  : As demand for IT AMOLEDs is not as high as expected, Samsung may start producing
+2026-04-27 17:47:13,316 [DEBUG]   [12] ✅ Source : OLED-Info
+2026-04-27 17:47:13,316 [DEBUG]   [12] ✅ Link   : https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkdPVDMyaGlVb2pldUdzbFIwd1J
+2026-04-27 17:47:13,317 [DEBUG]   [12] ✅ Date   : 27-04-2026 10:08 UTC
+2026-04-27 17:47:13,318 [DEBUG]   [12] ✅ Added to results
+2026-04-27 17:47:13,319 [DEBUG]   [13] ✅ Title  : Samsung Elec to withdraw home appliances, TV sales from China this year, Nikkei 
+2026-04-27 17:47:13,319 [DEBUG]   [13] ✅ Source : Reuters
+2026-04-27 17:47:13,320 [DEBUG]   [13] ✅ Link   : https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1RkOUJmLTM3cVBTUlpnRWdqV1B
+2026-04-27 17:47:13,320 [DEBUG]   [13] ✅ Date   : 27-04-2026 11:45 UTC
+2026-04-27 17:47:13,321 [DEBUG]   [13] ✅ Added to results
+2026-04-27 17:47:13,321 [DEBUG]   [14] ✅ Title  : Samsung India Rolls out Exciting Samsung Finance+ Offers; Own Bespoke AI Applian
+2026-04-27 17:47:13,322 [DEBUG]   [14] ✅ Source : samsung.com
+2026-04-27 17:47:13,322 [DEBUG]   [14] ✅ Link   : https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ0NTdm4zS2xJNmxaRU9wOXZ6UjZ
+2026-04-27 17:47:13,322 [DEBUG]   [14] ✅ Date   : 27-04-2026 03:53 UTC
+2026-04-27 17:47:13,323 [DEBUG]   [14] ⏩ Skipped (irrelevant): Samsung India Rolls out Exciting Samsung Finance+ Offers; Ow
+2026-04-27 17:47:13,323 [DEBUG]   [15] ✅ Title  : Samsung may offer Galaxy A series phones in South America with a Spotify Premium
+2026-04-27 17:47:13,323 [DEBUG]   [15] ✅ Source : SamMobile
+2026-04-27 17:47:13,324 [DEBUG]   [15] ✅ Link   : https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlhyQklLRlJKVEhycWxpYjh2OU1
+2026-04-27 17:47:13,324 [DEBUG]   [15] ✅ Date   : 27-04-2026 11:41 UTC
+2026-04-27 17:47:13,324 [DEBUG]   [15] ⏩ Skipped (irrelevant): Samsung may offer Galaxy A series phones in South America wi
+2026-04-27 17:47:13,325 [INFO] ✅ Collected 11 valid articles for 'Samsung'
+2026-04-27 17:47:15,327 [INFO] ─── Fetching news for: Celltrion ───
+2026-04-27 17:47:15,328 [INFO] 🔍 Fetching RSS for 'Celltrion': https://news.google.com/rss/search?q=Celltrion+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:15,330 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:15,897 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Celltrion+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:15,898 [DEBUG] ✅ HTTP 200 — RSS size: 2,079 chars
+2026-04-27 17:47:15,898 [INFO] 📰 Found 1 RSS items for 'Celltrion'
+2026-04-27 17:47:15,899 [DEBUG]   [1] ✅ Title  : KOSPI Surpasses All-Time High of 6,600... KOSDAQ Also on the Rise
+2026-04-27 17:47:15,899 [DEBUG]   [1] ✅ Source : 아시아경제
+2026-04-27 17:47:15,899 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MemJCVURZUXFqcHlGNXh3QlZ0Vkl
+2026-04-27 17:47:15,899 [DEBUG]   [1] ✅ Date   : 27-04-2026 07:01 UTC
+2026-04-27 17:47:15,901 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:47:15,901 [INFO] ✅ Collected 1 valid articles for 'Celltrion'
+2026-04-27 17:47:17,903 [INFO] ─── Fetching news for: Prestige Biopharma ───
+2026-04-27 17:47:17,903 [INFO] 🔍 Fetching RSS for 'Prestige Biopharma': https://news.google.com/rss/search?q=Prestige+Biopharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:17,906 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:18,877 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Prestige+Biopharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:18,878 [DEBUG] ✅ HTTP 200 — RSS size: 1,148 chars
+2026-04-27 17:47:18,879 [INFO] 📰 Found 0 RSS items for 'Prestige Biopharma'
+2026-04-27 17:47:18,880 [WARNING] ⚠️  0 articles in RSS for 'Prestige Biopharma'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:20,882 [INFO] ─── Fetching news for: Daiichi Sankyo ───
+2026-04-27 17:47:20,883 [INFO] 🔍 Fetching RSS for 'Daiichi Sankyo': https://news.google.com/rss/search?q=Daiichi+Sankyo+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:20,886 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:21,846 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Daiichi+Sankyo+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:21,848 [DEBUG] ✅ HTTP 200 — RSS size: 12,587 chars
+2026-04-27 17:47:21,849 [INFO] 📰 Found 7 RSS items for 'Daiichi Sankyo'
+2026-04-27 17:47:21,850 [DEBUG]   [1] ✅ Title  : AstraZeneca Outlook Steady Amid Daiichi Review Update
+2026-04-27 17:47:21,851 [DEBUG]   [1] ✅ Source : Kalkine Media
+2026-04-27 17:47:21,851 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTNOdVpQbUZNcDhkTFRqTkJrZ0w
+2026-04-27 17:47:21,851 [DEBUG]   [1] ✅ Date   : 27-04-2026 11:18 UTC
+2026-04-27 17:47:21,852 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:47:21,852 [DEBUG]   [2] ✅ Title  : Nuvation Bio gains global rights to brain cancer therapy from Daiichi Sankyo
+2026-04-27 17:47:21,852 [DEBUG]   [2] ✅ Source : MSN
+2026-04-27 17:47:21,852 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMi-gJBVV95cUxPbTdabDVobXA4LWxlYTdPZUl3bW9
+2026-04-27 17:47:21,853 [DEBUG]   [2] ✅ Date   : 27-04-2026 01:37 UTC
+2026-04-27 17:47:21,853 [DEBUG]   [2] ⏩ Skipped (irrelevant): Nuvation Bio gains global rights to brain cancer therapy fro
+2026-04-27 17:47:21,853 [DEBUG]   [3] ✅ Title  : Mitsubishi Research Institute, Astellas Pharma, Daiichi Sankyo, and Daiwa Securi
+2026-04-27 17:47:21,853 [DEBUG]   [3] ✅ Source : 富途牛牛
+2026-04-27 17:47:21,854 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMivwFBVV95cUxPckk2azdoaHYxaGNZQk9WbDNCTVZ
+2026-04-27 17:47:21,855 [DEBUG]   [3] ✅ Date   : 26-04-2026 21:30 UTC
+2026-04-27 17:47:21,856 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:47:21,856 [DEBUG]   [4] ✅ Title  : Citi sees Daiichi supply review as immaterial for AstraZeneca
+2026-04-27 17:47:21,857 [DEBUG]   [4] ✅ Source : Proactive Investors
+2026-04-27 17:47:21,857 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGNNVlFkNGdHV19qY2VMdHNoek1
+2026-04-27 17:47:21,857 [DEBUG]   [4] ✅ Date   : 27-04-2026 12:04 UTC
+2026-04-27 17:47:21,858 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:47:21,858 [DEBUG]   [5] ✅ Title  : MRK, Daiichi's BLA for ADC drug gets FDA priority tag in lung cancer
+2026-04-27 17:47:21,859 [DEBUG]   [5] ✅ Source : MSN
+2026-04-27 17:47:21,860 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMihwNBVV95cUxOM19BLWZJYXgwdFdWZ1QteVRKTmN
+2026-04-27 17:47:21,861 [DEBUG]   [5] ✅ Date   : 27-04-2026 09:00 UTC
+2026-04-27 17:47:21,861 [DEBUG]   [5] ⏩ Skipped (irrelevant): MRK, Daiichi's BLA for ADC drug gets FDA priority tag in lun
+2026-04-27 17:47:21,862 [DEBUG]   [6] ✅ Title  : Suntory buying Daiichi Sankyo unit for $1.3B, Nikkei reports
+2026-04-27 17:47:21,863 [DEBUG]   [6] ✅ Source : MSN
+2026-04-27 17:47:21,863 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMi5gJBVV95cUxPdXIxRHBnekxIcmdsT2NEMi1VbG1
+2026-04-27 17:47:21,863 [DEBUG]   [6] ✅ Date   : 26-04-2026 14:15 UTC
+2026-04-27 17:47:21,864 [DEBUG]   [6] ⏩ Skipped (irrelevant): Suntory buying Daiichi Sankyo unit for $1.3B, Nikkei reports
+2026-04-27 17:47:21,864 [DEBUG]   [7] ✅ Title  : MSD, Daiichi Sankyo’s ifinatamab deruxtecan receives FDA priority
+2026-04-27 17:47:21,864 [DEBUG]   [7] ✅ Source : MSN
+2026-04-27 17:47:21,865 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTZwUXdzTjRqY1ZpMTRtYWdhSVJ
+2026-04-27 17:47:21,865 [DEBUG]   [7] ✅ Date   : 26-04-2026 13:58 UTC
+2026-04-27 17:47:21,866 [DEBUG]   [7] ⏩ Skipped (irrelevant): MSD, Daiichi Sankyo’s ifinatamab deruxtecan receives FDA pri
+2026-04-27 17:47:21,868 [INFO] ✅ Collected 3 valid articles for 'Daiichi Sankyo'
+2026-04-27 17:47:23,871 [INFO] ─── Fetching news for: Dong A ST - Meiji Seika ───
+2026-04-27 17:47:23,872 [INFO] 🔍 Fetching RSS for 'Dong A ST - Meiji Seika': https://news.google.com/rss/search?q=Dong+A+ST+-+Meiji+Seika+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:23,875 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:24,774 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Dong+A+ST+-+Meiji+Seika+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:24,775 [DEBUG] ✅ HTTP 200 — RSS size: 1,158 chars
+2026-04-27 17:47:24,775 [INFO] 📰 Found 0 RSS items for 'Dong A ST - Meiji Seika'
+2026-04-27 17:47:24,776 [WARNING] ⚠️  0 articles in RSS for 'Dong A ST - Meiji Seika'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:26,778 [INFO] ─── Fetching news for: Kyowa Kirin ───
+2026-04-27 17:47:26,778 [INFO] 🔍 Fetching RSS for 'Kyowa Kirin': https://news.google.com/rss/search?q=Kyowa+Kirin+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:26,781 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:27,353 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Kyowa+Kirin+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:27,354 [DEBUG] ✅ HTTP 200 — RSS size: 10,898 chars
+2026-04-27 17:47:27,355 [INFO] 📰 Found 7 RSS items for 'Kyowa Kirin'
+2026-04-27 17:47:27,356 [DEBUG]   [1] ✅ Title  : Kyowa Kirin and Kura initiate Phase II trial of ziftomenib for AML
+2026-04-27 17:47:27,356 [DEBUG]   [1] ✅ Source : Clinical Trials Arena
+2026-04-27 17:47:27,356 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0p3dWZ0TlJ3dDk5M2RrdVVsN2U
+2026-04-27 17:47:27,356 [DEBUG]   [1] ✅ Date   : 27-04-2026 09:45 UTC
+2026-04-27 17:47:27,356 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:47:27,356 [DEBUG]   [2] ✅ Title  : Kyowa Kirin Co., Ltd. And Kura Oncology, Inc. Advance Ziftomenib With Japan Phas
+2026-04-27 17:47:27,356 [DEBUG]   [2] ✅ Source : BioPharma APAC
+2026-04-27 17:47:27,356 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOF9sVklPRVFZZTIyTld4Sm5Kdmt
+2026-04-27 17:47:27,357 [DEBUG]   [2] ✅ Date   : 26-04-2026 18:41 UTC
+2026-04-27 17:47:27,357 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:47:27,357 [DEBUG]   [3] ✅ Title  : A phase 2 trial of burosumab for treatment of fibroblast growth factor-23-mediat
+2026-04-27 17:47:27,357 [DEBUG]   [3] ✅ Source : Nature
+2026-04-27 17:47:27,357 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjRHNYWHhzbUZZQU9zRThXaktsTFV
+2026-04-27 17:47:27,357 [DEBUG]   [3] ✅ Date   : 27-04-2026 02:45 UTC
+2026-04-27 17:47:27,358 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:47:27,358 [DEBUG]   [4] ✅ Title  : The East Is Ready: A New Axis Of Pharmaceutical Innovation
+2026-04-27 17:47:27,358 [DEBUG]   [4] ✅ Source : Life Science Leader
+2026-04-27 17:47:27,358 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMiogFBVV95cUxOVF9OMXdkRF81WGtxX0tQVzNJMG9
+2026-04-27 17:47:27,358 [DEBUG]   [4] ✅ Date   : 27-04-2026 06:36 UTC
+2026-04-27 17:47:27,359 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:47:27,365 [DEBUG]   [5] ✅ Title  : Leading Companies Advancing Innovation and Growth in the Urticaria Market
+2026-04-27 17:47:27,367 [DEBUG]   [5] ✅ Source : openPR.com
+2026-04-27 17:47:27,368 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVA0emdfNF9MTkZrbW9OVUpjbTM
+2026-04-27 17:47:27,369 [DEBUG]   [5] ✅ Date   : 27-04-2026 05:07 UTC
+2026-04-27 17:47:27,369 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:47:27,370 [DEBUG]   [6] ✅ Title  : Ultragenyx falls as guidance trails consensus amid job cuts
+2026-04-27 17:47:27,370 [DEBUG]   [6] ✅ Source : MSN
+2026-04-27 17:47:27,370 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMi5AJBVV95cUxQeWRCRG00ZlI2YzRxZnREM3p3Q0c
+2026-04-27 17:47:27,371 [DEBUG]   [6] ✅ Date   : 26-04-2026 23:32 UTC
+2026-04-27 17:47:27,371 [DEBUG]   [6] ⏩ Skipped (irrelevant): Ultragenyx falls as guidance trails consensus amid job cuts
+2026-04-27 17:47:27,371 [DEBUG]   [7] ✅ Title  : Kyowa Kirin and Kura Oncology Initiate Japanese Phase 2 Registration-Directed Tr
+2026-04-27 17:47:27,371 [DEBUG]   [7] ✅ Source : riauone.com
+2026-04-27 17:47:27,372 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaG5PQmM5ajk5aGJjUWFGdktBdGF
+2026-04-27 17:47:27,372 [DEBUG]   [7] ✅ Date   : 27-04-2026 01:26 UTC
+2026-04-27 17:47:27,373 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:47:27,373 [INFO] ✅ Collected 6 valid articles for 'Kyowa Kirin'
+2026-04-27 17:47:29,376 [INFO] ─── Fetching news for: JCR Pharma ───
+2026-04-27 17:47:29,377 [INFO] 🔍 Fetching RSS for 'JCR Pharma': https://news.google.com/rss/search?q=JCR+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:29,382 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:29,937 [DEBUG] https://news.google.com:443 "GET /rss/search?q=JCR+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:29,940 [DEBUG] ✅ HTTP 200 — RSS size: 1,132 chars
+2026-04-27 17:47:29,942 [INFO] 📰 Found 0 RSS items for 'JCR Pharma'
+2026-04-27 17:47:29,943 [WARNING] ⚠️  0 articles in RSS for 'JCR Pharma'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:31,945 [INFO] ─── Fetching news for: Kidswell Bio ───
+2026-04-27 17:47:31,946 [INFO] 🔍 Fetching RSS for 'Kidswell Bio': https://news.google.com/rss/search?q=Kidswell+Bio+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:31,949 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:32,909 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Kidswell+Bio+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:32,911 [DEBUG] ✅ HTTP 200 — RSS size: 1,136 chars
+2026-04-27 17:47:32,911 [INFO] 📰 Found 0 RSS items for 'Kidswell Bio'
+2026-04-27 17:47:32,911 [WARNING] ⚠️  0 articles in RSS for 'Kidswell Bio'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:34,913 [INFO] ─── Fetching news for: Nichi-Iko ───
+2026-04-27 17:47:34,915 [INFO] 🔍 Fetching RSS for 'Nichi-Iko': https://news.google.com/rss/search?q=Nichi-Iko+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:34,917 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:35,466 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Nichi-Iko+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:35,467 [DEBUG] ✅ HTTP 200 — RSS size: 1,130 chars
+2026-04-27 17:47:35,468 [INFO] 📰 Found 0 RSS items for 'Nichi-Iko'
+2026-04-27 17:47:35,468 [WARNING] ⚠️  0 articles in RSS for 'Nichi-Iko'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:37,470 [INFO] ─── Fetching news for: Mochida Pharmaceutical ───
+2026-04-27 17:47:37,471 [INFO] 🔍 Fetching RSS for 'Mochida Pharmaceutical': https://news.google.com/rss/search?q=Mochida+Pharmaceutical+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:37,476 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:38,331 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Mochida+Pharmaceutical+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:38,332 [DEBUG] ✅ HTTP 200 — RSS size: 2,456 chars
+2026-04-27 17:47:38,333 [INFO] 📰 Found 1 RSS items for 'Mochida Pharmaceutical'
+2026-04-27 17:47:38,333 [DEBUG]   [1] ✅ Title  : Evonik, Higuchi open Yokohama lab to expand oral drug delivery work
+2026-04-27 17:47:38,334 [DEBUG]   [1] ✅ Source : The Pharma Letter
+2026-04-27 17:47:38,334 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFpvb0dWZ0drOC01OW56aDFJUDl
+2026-04-27 17:47:38,335 [DEBUG]   [1] ✅ Date   : 27-04-2026 10:54 UTC
+2026-04-27 17:47:38,335 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:47:38,336 [INFO] ✅ Collected 1 valid articles for 'Mochida Pharmaceutical'
+2026-04-27 17:47:40,339 [INFO] ─── Fetching news for: Polpharma ───
+2026-04-27 17:47:40,339 [INFO] 🔍 Fetching RSS for 'Polpharma': https://news.google.com/rss/search?q=Polpharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:40,342 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:41,302 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Polpharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:41,303 [DEBUG] ✅ HTTP 200 — RSS size: 1,130 chars
+2026-04-27 17:47:41,304 [INFO] 📰 Found 0 RSS items for 'Polpharma'
+2026-04-27 17:47:41,305 [WARNING] ⚠️  0 articles in RSS for 'Polpharma'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:43,308 [INFO] ─── Fetching news for: Fresenius Kabi ───
+2026-04-27 17:47:43,309 [INFO] 🔍 Fetching RSS for 'Fresenius Kabi': https://news.google.com/rss/search?q=Fresenius+Kabi+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:43,312 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:44,681 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Fresenius+Kabi+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:44,682 [DEBUG] ✅ HTTP 200 — RSS size: 6,664 chars
+2026-04-27 17:47:44,682 [INFO] 📰 Found 4 RSS items for 'Fresenius Kabi'
+2026-04-27 17:47:44,682 [DEBUG]   [1] ✅ Title  : World Growth Hormone Inhibiting Hormone Drugs - Market Analysis, Forecast, Size,
+2026-04-27 17:47:44,683 [DEBUG]   [1] ✅ Source : IndexBox
+2026-04-27 17:47:44,683 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUHFfcWhIZzNVMWJmZzh2ZHpWS2g
+2026-04-27 17:47:44,683 [DEBUG]   [1] ✅ Date   : 27-04-2026 08:31 UTC
+2026-04-27 17:47:44,683 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:47:44,683 [DEBUG]   [2] ✅ Title  : Trends in Growth, Market Segmentation, and Competitive Strategies Influencing th
+2026-04-27 17:47:44,684 [DEBUG]   [2] ✅ Source : openPR.com
+2026-04-27 17:47:44,684 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMikgFBVV95cUxQSExadVFFZjVOc1h0eHY3Y0hDWEJ
+2026-04-27 17:47:44,684 [DEBUG]   [2] ✅ Date   : 27-04-2026 05:21 UTC
+2026-04-27 17:47:44,684 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:47:44,684 [DEBUG]   [3] ✅ Title  : World Methotrexate Drug - Market Analysis, Forecast, Size, Trends and Insights
+2026-04-27 17:47:44,684 [DEBUG]   [3] ✅ Source : IndexBox
+2026-04-27 17:47:44,684 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUGtxb0M2NnJzdllOSWJXTjhPbFN
+2026-04-27 17:47:44,685 [DEBUG]   [3] ✅ Date   : 27-04-2026 04:31 UTC
+2026-04-27 17:47:44,685 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:47:44,685 [DEBUG]   [4] ✅ Title  : Global Factors Influencing the Rapid Evolution of the Valley Fever Market
+2026-04-27 17:47:44,685 [DEBUG]   [4] ✅ Source : openPR.com
+2026-04-27 17:47:44,685 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMinAFBVV95cUxOX0pNRkNMalVodktZRnh1TU40WmR
+2026-04-27 17:47:44,685 [DEBUG]   [4] ✅ Date   : 27-04-2026 05:48 UTC
+2026-04-27 17:47:44,686 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:47:44,686 [INFO] ✅ Collected 4 valid articles for 'Fresenius Kabi'
+2026-04-27 17:47:46,688 [INFO] ─── Fetching news for: MS Pharma ───
+2026-04-27 17:47:46,689 [INFO] 🔍 Fetching RSS for 'MS Pharma': https://news.google.com/rss/search?q=MS+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:46,691 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:47,720 [DEBUG] https://news.google.com:443 "GET /rss/search?q=MS+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:47,721 [DEBUG] ✅ HTTP 200 — RSS size: 14,299 chars
+2026-04-27 17:47:47,722 [INFO] 📰 Found 7 RSS items for 'MS Pharma'
+2026-04-27 17:47:47,722 [DEBUG]   [1] ✅ Title  : Alembic gets FDA final nod for multiple sclerosis drug
+2026-04-27 17:47:47,723 [DEBUG]   [1] ✅ Source : ET Pharma
+2026-04-27 17:47:47,723 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMilAJBVV95cUxORTFYY1Z4Q1ZtYk4wX1pmdjhiZlB
+2026-04-27 17:47:47,723 [DEBUG]   [1] ✅ Date   : 27-04-2026 08:09 UTC
+2026-04-27 17:47:47,724 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:47:47,724 [DEBUG]   [2] ✅ Title  : Alembic Secures USFDA Approval for Gilenya Generic
+2026-04-27 17:47:47,725 [DEBUG]   [2] ✅ Source : Medical Dialogues
+2026-04-27 17:47:47,725 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWgyM250a2ppOUFyZ0pjYzJDNWR
+2026-04-27 17:47:47,725 [DEBUG]   [2] ✅ Date   : 27-04-2026 06:45 UTC
+2026-04-27 17:47:47,725 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:47:47,726 [DEBUG]   [3] ✅ Title  : Sun Pharma's $11.75B Deal, Zydus Drug Mark India Pharma's Global Push
+2026-04-27 17:47:47,726 [DEBUG]   [3] ✅ Source : Whalesbook
+2026-04-27 17:47:47,726 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMWdrTnhaMVdkZjFpNlpldy0ycEk
+2026-04-27 17:47:47,727 [DEBUG]   [3] ✅ Date   : 27-04-2026 02:33 UTC
+2026-04-27 17:47:47,728 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:47:47,730 [DEBUG]   [4] ✅ Title  : UAE pharma firms move to keep medicine supplies steady
+2026-04-27 17:47:47,731 [DEBUG]   [4] ✅ Source : Gulf News
+2026-04-27 17:47:47,731 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2lmLWxpMmZkcEd5T001aEI0eDV
+2026-04-27 17:47:47,732 [DEBUG]   [4] ✅ Date   : 27-04-2026 09:12 UTC
+2026-04-27 17:47:47,733 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:47:47,733 [DEBUG]   [5] ✅ Title  : Alembic announces FDA final approval for Fingolimod capsules
+2026-04-27 17:47:47,734 [DEBUG]   [5] ✅ Source : Indian Pharma Post
+2026-04-27 17:47:47,734 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMiswFBVV95cUxNWXZza3VxTEczZUJFc2lNTmJ1QTB
+2026-04-27 17:47:47,735 [DEBUG]   [5] ✅ Date   : 27-04-2026 07:18 UTC
+2026-04-27 17:47:47,736 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:47:47,736 [DEBUG]   [6] ✅ Title  : Sun Pharma ki $11.75B Deal! India Pharma sector global stage par dikha raha hai 
+2026-04-27 17:47:47,736 [DEBUG]   [6] ✅ Source : Whalesbook
+2026-04-27 17:47:47,736 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSVpoc0lfendqZjJfRFQ1aWtFOWt
+2026-04-27 17:47:47,737 [DEBUG]   [6] ✅ Date   : 27-04-2026 02:33 UTC
+2026-04-27 17:47:47,737 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:47:47,738 [DEBUG]   [7] ✅ Title  : Gland Pharma reappoints Naina Lal Kidwai as independent director with special re
+2026-04-27 17:47:47,738 [DEBUG]   [7] ✅ Source : Business Upturn
+2026-04-27 17:47:47,739 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRHRlTUVydlRJT2l2c0pDR25Bbzd
+2026-04-27 17:47:47,739 [DEBUG]   [7] ✅ Date   : 27-04-2026 08:56 UTC
+2026-04-27 17:47:47,740 [DEBUG]   [7] ✅ Added to results
+2026-04-27 17:47:47,740 [INFO] ✅ Collected 7 valid articles for 'MS Pharma'
+2026-04-27 17:47:49,742 [INFO] ─── Fetching news for: Alvotech ───
+2026-04-27 17:47:49,743 [INFO] 🔍 Fetching RSS for 'Alvotech': https://news.google.com/rss/search?q=Alvotech+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:49,746 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:50,636 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Alvotech+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:50,640 [DEBUG] ✅ HTTP 200 — RSS size: 1,128 chars
+2026-04-27 17:47:50,641 [INFO] 📰 Found 0 RSS items for 'Alvotech'
+2026-04-27 17:47:50,641 [WARNING] ⚠️  0 articles in RSS for 'Alvotech'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:52,644 [INFO] ─── Fetching news for: Advanz Pharma ───
+2026-04-27 17:47:52,646 [INFO] 🔍 Fetching RSS for 'Advanz Pharma': https://news.google.com/rss/search?q=Advanz+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:52,649 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:53,590 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Advanz+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:53,591 [DEBUG] ✅ HTTP 200 — RSS size: 1,138 chars
+2026-04-27 17:47:53,591 [INFO] 📰 Found 0 RSS items for 'Advanz Pharma'
+2026-04-27 17:47:53,592 [WARNING] ⚠️  0 articles in RSS for 'Advanz Pharma'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:55,594 [INFO] ─── Fetching news for: Fuji Pharma ───
+2026-04-27 17:47:55,595 [INFO] 🔍 Fetching RSS for 'Fuji Pharma': https://news.google.com/rss/search?q=Fuji+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:55,598 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:47:57,427 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Fuji+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:47:57,430 [DEBUG] ✅ HTTP 200 — RSS size: 1,134 chars
+2026-04-27 17:47:57,431 [INFO] 📰 Found 0 RSS items for 'Fuji Pharma'
+2026-04-27 17:47:57,431 [WARNING] ⚠️  0 articles in RSS for 'Fuji Pharma'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:47:59,432 [INFO] ─── Fetching news for: Teva ───
+2026-04-27 17:47:59,434 [INFO] 🔍 Fetching RSS for 'Teva': https://news.google.com/rss/search?q=Teva+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:47:59,436 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:48:00,143 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Teva+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:48:00,144 [DEBUG] ✅ HTTP 200 — RSS size: 14,494 chars
+2026-04-27 17:48:00,144 [INFO] 📰 Found 9 RSS items for 'Teva'
+2026-04-27 17:48:00,145 [DEBUG]   [1] ✅ Title  : Teva wins KESHET Award for gender equality in corporate workplace policies
+2026-04-27 17:48:00,145 [DEBUG]   [1] ✅ Source : The Jerusalem Post
+2026-04-27 17:48:00,146 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXdzY3blVhbWRVU1B6RENJeGJCTlQ
+2026-04-27 17:48:00,146 [DEBUG]   [1] ✅ Date   : 27-04-2026 08:26 UTC
+2026-04-27 17:48:00,147 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:48:00,147 [DEBUG]   [2] ✅ Title  : Generic drug suppliers could face pressure from Strait of Hormuz closure
+2026-04-27 17:48:00,147 [DEBUG]   [2] ✅ Source : MSN
+2026-04-27 17:48:00,147 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMihgNBVV95cUxQZXZ5X3U0R0pIY2dQaG1yRUl6a3F
+2026-04-27 17:48:00,148 [DEBUG]   [2] ✅ Date   : 27-04-2026 00:01 UTC
+2026-04-27 17:48:00,148 [DEBUG]   [2] ⏩ Skipped (irrelevant): Generic drug suppliers could face pressure from Strait of Ho
+2026-04-27 17:48:00,148 [DEBUG]   [3] ✅ Title  : Stylish Walking Shoes That Can Handle A Full Travel Itinerary
+2026-04-27 17:48:00,148 [DEBUG]   [3] ✅ Source : lifestyleasia-onemega.com
+2026-04-27 17:48:00,150 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHJndkJuV294cHFyZXZsY0diVnZ
+2026-04-27 17:48:00,151 [DEBUG]   [3] ✅ Date   : 27-04-2026 02:18 UTC
+2026-04-27 17:48:00,152 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:48:00,152 [DEBUG]   [4] ✅ Title  : Environmental activists threaten High Court petition over data wipe
+2026-04-27 17:48:00,154 [DEBUG]   [4] ✅ Source : The Times of Israel
+2026-04-27 17:48:00,154 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWxsTWt1QmlmT3Zkb0FpUTVITUZ
+2026-04-27 17:48:00,155 [DEBUG]   [4] ✅ Date   : 26-04-2026 14:16 UTC
+2026-04-27 17:48:00,156 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:48:00,156 [DEBUG]   [5] ✅ Title  : Ajovy Market Overview, Key Trends, and Insights on Leading Companies
+2026-04-27 17:48:00,157 [DEBUG]   [5] ✅ Source : openPR.com
+2026-04-27 17:48:00,157 [DEBUG]   [5] ✅ Link   : https://news.google.com/rss/articles/CBMilwFBVV95cUxOLThvWWhscUF3UE1aWXd6dHp3dkN
+2026-04-27 17:48:00,158 [DEBUG]   [5] ✅ Date   : 27-04-2026 09:01 UTC
+2026-04-27 17:48:00,159 [DEBUG]   [5] ✅ Added to results
+2026-04-27 17:48:00,159 [DEBUG]   [6] ✅ Title  : Justices tell Baltimore City Big Pharma can't be held liable for abuse or misuse
+2026-04-27 17:48:00,160 [DEBUG]   [6] ✅ Source : WMAR 2 News Baltimore
+2026-04-27 17:48:00,161 [DEBUG]   [6] ✅ Link   : https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRkphc2xqUlRSeDBqVFB2WmJpLTU
+2026-04-27 17:48:00,161 [DEBUG]   [6] ✅ Date   : 26-04-2026 16:46 UTC
+2026-04-27 17:48:00,162 [DEBUG]   [6] ✅ Added to results
+2026-04-27 17:48:00,162 [DEBUG]   [7] ✅ Title  : The best healthcare stock to invest $1,000 in right now
+2026-04-27 17:48:00,164 [DEBUG]   [7] ✅ Source : MSN
+2026-04-27 17:48:00,166 [DEBUG]   [7] ✅ Link   : https://news.google.com/rss/articles/CBMi2gJBVV95cUxPYllBbXotakVjQ2FSTHAySTBpNWV
+2026-04-27 17:48:00,167 [DEBUG]   [7] ✅ Date   : 26-04-2026 14:08 UTC
+2026-04-27 17:48:00,167 [DEBUG]   [7] ⏩ Skipped (irrelevant): The best healthcare stock to invest $1,000 in right now
+2026-04-27 17:48:00,167 [DEBUG]   [8] ✅ Title  : What to expect from Deckers Outdoor's Q4 2026 earnings report
+2026-04-27 17:48:00,168 [DEBUG]   [8] ✅ Source : MSN
+2026-04-27 17:48:00,169 [DEBUG]   [8] ✅ Link   : https://news.google.com/rss/articles/CBMitAFBVV95cUxNbnBCeUlRT1BiRkNyYVhuWWJfc29
+2026-04-27 17:48:00,169 [DEBUG]   [8] ✅ Date   : 26-04-2026 20:26 UTC
+2026-04-27 17:48:00,170 [DEBUG]   [8] ⏩ Skipped (irrelevant): What to expect from Deckers Outdoor's Q4 2026 earnings repor
+2026-04-27 17:48:00,170 [DEBUG]   [9] ✅ Title  : Dividend Stocks April 26: Richter Gedeon Yields 4.84% Gains
+2026-04-27 17:48:00,170 [DEBUG]   [9] ✅ Source : Meyka
+2026-04-27 17:48:00,170 [DEBUG]   [9] ✅ Link   : https://news.google.com/rss/articles/CBMijgFBVV95cUxOQnlWcnhFWU0zb19pYW1mbjZwSVh
+2026-04-27 17:48:00,171 [DEBUG]   [9] ✅ Date   : 26-04-2026 21:00 UTC
+2026-04-27 17:48:00,171 [DEBUG]   [9] ✅ Added to results
+2026-04-27 17:48:00,171 [INFO] ✅ Collected 6 valid articles for 'Teva'
+2026-04-27 17:48:02,174 [INFO] ─── Fetching news for: Jamp Pharma ───
+2026-04-27 17:48:02,175 [INFO] 🔍 Fetching RSS for 'Jamp Pharma': https://news.google.com/rss/search?q=Jamp+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:48:02,177 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:48:02,811 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Jamp+Pharma+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:48:02,815 [DEBUG] ✅ HTTP 200 — RSS size: 1,134 chars
+2026-04-27 17:48:02,816 [INFO] 📰 Found 0 RSS items for 'Jamp Pharma'
+2026-04-27 17:48:02,817 [WARNING] ⚠️  0 articles in RSS for 'Jamp Pharma'. This may mean no news in last 24h, or the query returned nothing.
+2026-04-27 17:48:04,820 [INFO] ─── Fetching news for: Samsung Bioepis ───
+2026-04-27 17:48:04,820 [INFO] 🔍 Fetching RSS for 'Samsung Bioepis': https://news.google.com/rss/search?q=Samsung+Bioepis+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en
+2026-04-27 17:48:04,824 [DEBUG] Starting new HTTPS connection (1): news.google.com:443
+2026-04-27 17:48:05,878 [DEBUG] https://news.google.com:443 "GET /rss/search?q=Samsung+Bioepis+when%3A24h&hl=en-IN&gl=IN&ceid=IN:en HTTP/1.1" 200 None
+2026-04-27 17:48:05,880 [DEBUG] ✅ HTTP 200 — RSS size: 7,752 chars
+2026-04-27 17:48:05,881 [INFO] 📰 Found 4 RSS items for 'Samsung Bioepis'
+2026-04-27 17:48:05,881 [DEBUG]   [1] ✅ Title  : Samsung Bioepis Releases Second Quarter 2026 US Biosimilar Market Report
+2026-04-27 17:48:05,882 [DEBUG]   [1] ✅ Source : Business Wire
+2026-04-27 17:48:05,882 [DEBUG]   [1] ✅ Link   : https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLWxnMjc5SWx5UFJtazNOTGNMcnZ
+2026-04-27 17:48:05,883 [DEBUG]   [1] ✅ Date   : 27-04-2026 12:00 UTC
+2026-04-27 17:48:05,883 [DEBUG]   [1] ✅ Added to results
+2026-04-27 17:48:05,886 [DEBUG]   [2] ✅ Title  : Samsung Bioepis Releases Second Quarter 2026 US Biosimilar Market Report
+2026-04-27 17:48:05,887 [DEBUG]   [2] ✅ Source : The Joplin Globe
+2026-04-27 17:48:05,888 [DEBUG]   [2] ✅ Link   : https://news.google.com/rss/articles/CBMihgJBVV95cUxOMERiZzZiRHJZMWtvekkxNTVZLWd
+2026-04-27 17:48:05,888 [DEBUG]   [2] ✅ Date   : 27-04-2026 12:02 UTC
+2026-04-27 17:48:05,889 [DEBUG]   [2] ✅ Added to results
+2026-04-27 17:48:05,890 [DEBUG]   [3] ✅ Title  : Sun Pharma puts seal on $11.75B Organon buyout
+2026-04-27 17:48:05,891 [DEBUG]   [3] ✅ Source : FirstWord Pharma
+2026-04-27 17:48:05,891 [DEBUG]   [3] ✅ Link   : https://news.google.com/rss/articles/CBMiU0FVX3lxTE81MVB0aHhzSGJnX244ZVZHRzVhZjZ
+2026-04-27 17:48:05,892 [DEBUG]   [3] ✅ Date   : 27-04-2026 07:53 UTC
+2026-04-27 17:48:05,892 [DEBUG]   [3] ✅ Added to results
+2026-04-27 17:48:05,893 [DEBUG]   [4] ✅ Title  : ET Exclusive | Sun Pharma set to acquire Organon for $12.5 bn, its biggest till 
+2026-04-27 17:48:05,894 [DEBUG]   [4] ✅ Source : The Economic Times
+2026-04-27 17:48:05,895 [DEBUG]   [4] ✅ Link   : https://news.google.com/rss/articles/CBMi_gFBVV95cUxQU0RfUnhSdHp3QzBOWWhQY3ZHZTV
+2026-04-27 17:48:05,895 [DEBUG]   [4] ✅ Date   : 26-04-2026 15:46 UTC
+2026-04-27 17:48:05,896 [DEBUG]   [4] ✅ Added to results
+2026-04-27 17:48:05,896 [INFO] ✅ Collected 4 valid articles for 'Samsung Bioepis'
+2026-04-27 17:48:07,899 [INFO] 📊 Total articles collected across all companies: 135
+2026-04-27 17:48:08,330 [INFO] ✅ Saved raw results: news_results_raw.xlsx (135 rows)
+2026-04-27 17:48:08,331 [INFO] 🤖 Enriching results with AI (with keyword-based backup)...
+2026-04-27 17:54:21,284 [INFO] ✅ AI enrichment successful! Processed 42 items
+2026-04-27 17:54:21,353 [INFO] ✅ Saved enriched results with metadata sheet: news_results.xlsx
+2026-04-27 17:54:26,208 [INFO] ✅ Email sent successfully with raw + enriched reports!
