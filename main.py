@@ -412,7 +412,7 @@ recipients = [
     # "diksha@synapsebiopharma.com",
     "dipanshi@synapsebiopharma.com",
     # "navita@synapsebiopharma.com",
-    "satish@synapsebiopharma.com"
+    # "satish@synapsebiopharma.com"
 ]
 
 msg = EmailMessage()
