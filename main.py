@@ -408,11 +408,11 @@ if not PASSWORD:
 
 recipients = [
     "krishna@synapsebiopharma.com",
-    # "utkarsh@synapsebiopharma.com",
-    # "diksha@synapsebiopharma.com",
+    "utkarsh@synapsebiopharma.com",
+    "diksha@synapsebiopharma.com",
     "dipanshi@synapsebiopharma.com",
-    # "navita@synapsebiopharma.com",
-    # "satish@synapsebiopharma.com"
+    "navita@synapsebiopharma.com",
+    "satish@synapsebiopharma.com"
 ]
 
 msg = EmailMessage()
