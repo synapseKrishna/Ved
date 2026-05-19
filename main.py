@@ -8,6 +8,7 @@ import logging
 import smtplib
 import ssl
 from urllib.parse import quote_plus
+from googlenewsdecoder import new_decoderv1
 from email.message import EmailMessage
 from email.utils import formataddr, parsedate_to_datetime
 from zoneinfo import ZoneInfo
@@ -118,17 +119,19 @@ def is_relevant(title: str, source: str = "") -> bool:
 def decode_google_news_url(rss_link: str) -> str:
     """
     Google News RSS items wrap the real article URL in a Google redirect.
-    This extracts the real URL where possible, falling back to the redirect URL.
+    Uses googlenewsdecoder to resolve the actual article URL via Google's
+    batchexecute API, falling back to the original link on failure.
     """
-    if not rss_link.startswith("https://news.google.com"):
+    if not rss_link or not rss_link.startswith("https://news.google.com"):
         return rss_link
 
     try:
-        match = re.search(r"[?&]url=([^&]+)", rss_link)
-        if match:
-            return match.group(1)
-    except Exception:
-        pass
+        decoded = new_decoderv1(rss_link, interval=2)
+        if decoded.get("status") and decoded.get("decoded_url"):
+            logger.debug(f"  🔗 Decoded URL: {decoded['decoded_url'][:80]}")
+            return decoded["decoded_url"]
+    except Exception as e:
+        logger.warning(f"  ⚠️  Could not decode Google News URL: {e}")
 
     return rss_link
 
@@ -302,6 +305,10 @@ def fetch_google_news(company_name: str, query: str, limit: int = 15,
             else:
                 date = ""
                 logger.warning(f"  [{item_num}] ⚠️  Date NOT FOUND in <pubDate> tag")
+
+            # ── Decode Google News redirect URL ──────────────────────────
+            if link:
+                link = decode_google_news_url(link)
 
             # ── Relevance filter ───────────────────────────────────────────
             if title and is_relevant(title, source):
