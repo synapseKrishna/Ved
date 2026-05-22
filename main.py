@@ -97,6 +97,10 @@ companies = [
     "Teva",
     "Jamp Pharma",
     "Samsung Bioepis"
+    "Polpharma Biologics"
+    "Fresenius Kabi"
+    "Samsung Biologics"
+    
 ]
 
 # 🔹 Block unwanted keywords
