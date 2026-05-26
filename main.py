@@ -96,11 +96,10 @@ companies = [
     "Fuji Pharma",
     "Teva",
     "Jamp Pharma",
-    "Samsung Bioepis"
-    "Polpharma Biologics"
-    "Fresenius Kabi"
+    "Samsung Bioepis",
+    "Polpharma Biologics",
+    "Fresenius Kabi",
     "Samsung Biologics"
-    
 ]
 
 # 🔹 Block unwanted keywords
@@ -110,6 +109,53 @@ blocked_keywords = ["advertisement", "sponsored", "promo", "offer", "discount"]
 blocked_whole_words = ["msn"]  # Matched as whole words only
 
 
+def is_stock_or_finance(title: str, source: str = "") -> bool:
+    text = (title + " " + source).lower()
+    
+    # 1. Match stock ticker symbols or ISIN codes in parentheses, e.g. (NYSE:TEVA), (NASDAQ:AMGN), (PFE), (US7170811035), (PFE.F)
+    if re.search(r'\([A-Z]{2,5}\)', title):
+        return True
+    if re.search(r'\([A-Z0-9.]{5,15}\)', title):
+        return True
+    if re.search(r'\b(NYSE|NASDAQ|TSE|LSE|OTCMKTS|LON)\s*:\s*[A-Z]{1,5}\b', title):
+        return True
+    
+    # 2. Block stock/finance sites
+    blocked_sources = [
+        "simply wall.st", "simplywall.st", "seeking alpha", "seekingalpha", "motley fool", 
+        "investorplace", "marketbeat", "tradingview", "investing.com", "zacks", 
+        "insider monkey", "stocknews", "wall street zen", "benzinga", "investor news", "investornews"
+    ]
+    source_lower = source.lower()
+    if any(src in source_lower for src in blocked_sources):
+        return True
+        
+    # 3. Block strong financial/stock keywords
+    blocked_finance_keywords = [
+        "stock price", "share price", "valuation check", "valuation analysis", 
+        "price target", "target price", "buy or sell", "stocks to watch", 
+        "stocks to buy", "equity research", "options activity", "options trade", 
+        "options chain", "market cap", "growth story", "insider buy", "insider sell", 
+        "insider transaction", "quarterly earnings", "dividend", "yield", "bullish", 
+        "bearish", "nasdaq", "nyse", "s&p 500", "dow jones", "brokerage report", 
+        "consensus estimate", "analyst consensus", "broker consensus", "stock split", 
+        "short selling", "should you buy", "should you sell", "should you hold", 
+        "is it a buy", "is it a sell", "time to buy", "worth buying", "worth selling", 
+        "worth holding", "outperform", "underperform", "market perform", "price forecast", 
+        "stock forecast", "earnings forecast", "revenue forecast", "is a winner", 
+        "winner in the", "growth story", "growth outlook", "long-term outlook"
+    ]
+    
+    if any(keyword in text for keyword in blocked_finance_keywords):
+        return True
+        
+    # 4. Whole-word matching for pure stock/investor terms to avoid false positives on words like "shares" as a verb
+    if re.search(r'\b(stock|stocks|investor|investors|trading|valuation|ticker|tickers|dividend|dividends|equity|equities|brokerage|brokerages)\b', text):
+        return True
+        
+    return False
+
+
 def is_relevant(title: str, source: str = "") -> bool:
     text = (title + " " + source).lower()
     if any(word in text for word in blocked_keywords):
@@ -117,6 +163,11 @@ def is_relevant(title: str, source: str = "") -> bool:
     # Whole-word matching for "msn" to avoid blocking "MSN Labs"
     if any(re.search(rf"\b{re.escape(word)}\b", text) for word in blocked_whole_words):
         return False
+        
+    # 🚫 Apply strict stock/finance pre-filtering to eliminate noise
+    if is_stock_or_finance(title, source):
+        return False
+        
     return True
 
 

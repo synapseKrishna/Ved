@@ -24,7 +24,6 @@ RECIPIENTS = ["divyanshmi999@gmail.com","krishna@synapsebiopharma.com",
 "navita@synapsebiopharma.com",
 "satish@synapsebiopharma.com"]
 
-
 # Explicit (testing)
 EMAIL_PASSWORD ="nwtungnsbcndsxne"
 
